@@ -14,4 +14,5 @@ app.use(express.json())
 const productrouter = require('./routes/products');
 app.use('/product',productrouter)
 
-app.listen(3000,() => console.log("server started!"))
+const PORT = process.env.PORT
+app.listen(PORT,() => console.log("server started!"))
