@@ -12,6 +12,8 @@ const db=mongoose.connection
 db.on('error',(error)=> console.error('Error connecting to the database:',error))
 db.once('open', ()=> console.log("connected to database"))
 
+app.use(express.json());
+
 app.use(express.json())
 
 const productrouter = require('./routes/products');
