@@ -5,19 +5,25 @@ GET http://localhost:3000/product/656a194352e6d0f2e1864110
 
 
 ###
-POST http://localhost:3000/product
+POST https://digi-express-homepage-api.onrender.com/product
 Content-Type: application/json
 
 {
-    "name": "Example Laptop",
-    "brand": "Dell",
-    "model": "SuperBook Pro",
-    "price": 102459,
-    "specifications": ["15-inch display", "8GB RAM", "256GB SSD"],
-    "image": "http://example.com/images/laptop.jpg",
-    "description": "A powerful and sleek laptop for your computing needs.",
-    "warranty": {
-        "duration": 2,
-        "description": "Limited warranty covering manufacturing defects."
-    }
+    "category": "laptop",
+        "name": "Legion 7",
+        "brand": "Lenovo",
+        "model": "Legion 7i",
+        "price": 1799.99,
+        "specifications": [
+            "15.6-inch 240Hz display",
+            "Intel Core i9",
+            "32GB RAM",
+            "1TB NVMe SSD"
+        ],
+        "image": "lenovo_legion_7.jpg",
+        "description": "High-performance gaming laptop with advanced features.",
+        "warranty": {
+            "duration": 2,
+            "description": "Premium Care warranty available."
+        }
 }
