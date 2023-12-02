@@ -1,0 +1,113 @@
+[
+    {
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "model": "XPS 13",
+      "price": 1299.99,
+      "specifications": ["13-inch display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "image": "dell_xps_13.jpg",
+      "description": "Powerful and compact laptop for professionals.",
+      "warranty": {"duration": 2, "description": "Standard manufacturer warranty."}
+    },
+    {
+        "name": "MacBook Pro",
+        "brand": "Apple",
+        "model": "MacBook Pro 16-inch",
+        "price": 2399.99,
+        "specifications": ["16-inch Retina display", "Intel Core i9", "32GB RAM", "1TB SSD"],
+        "image": "macbook_pro_16.jpg",
+        "description": "High-performance laptop for creative professionals.",
+        "warranty": {"duration": 1, "description": "AppleCare protection plan available."}
+    },
+    {
+        "name": "HP Envy x360",
+        "brand": "HP",
+        "model": "Envy x360",
+        "price": 1199.99,
+        "specifications": ["15.6-inch touchscreen", "AMD Ryzen 7", "16GB RAM", "512GB SSD"],
+        "image": "hp_envy_x360.jpg",
+        "description": "Convertible laptop with a sleek design and versatile features.",
+        "warranty": {"duration": 2, "description": "Standard manufacturer warranty."}
+      },
+      {
+        "name": "ThinkPad X1 Carbon",
+        "brand": "Lenovo",
+        "model": "X1 Carbon Gen 9",
+        "price": 1699.99,
+        "specifications": ["14-inch WQHD display", "Intel Core i5", "8GB RAM", "256GB SSD"],
+        "image": "lenovo_thinkpad_x1.jpg",
+        "description": "Business-class ultrabook with durability and performance.",
+        "warranty": {"duration": 3, "description": "Extended warranty options available."}
+      },
+      {
+        "name": "ROG Zephyrus G14",
+        "brand": "Asus",
+        "model": "GA401IV",
+        "price": 1499.99,
+        "specifications": ["14-inch FHD display", "AMD Ryzen 9", "16GB RAM", "1TB NVMe SSD"],
+        "image": "asus_rog_zephyrus_g14.jpg",
+        "description": "Gaming laptop with powerful performance in a compact form factor.",
+        "warranty": {"duration": 2, "description": "Standard manufacturer warranty."}
+      },
+      {
+        "name": "Surface Laptop 4",
+        "brand": "Microsoft",
+        "model": "Surface Laptop 4",
+        "price": 1299.99,
+        "specifications": ["13.5-inch PixelSense display", "Intel Core i5", "8GB RAM", "256GB SSD"],
+        "image": "microsoft_surface_laptop_4.jpg",
+        "description": "Sleek and lightweight laptop with a premium design.",
+        "warranty": {"duration": 1, "description": "Microsoft Complete protection plan available."}
+      },
+      {
+        "name": "Predator Helios 300",
+        "brand": "Acer",
+        "model": "PH315-54",
+        "price": 1299.99,
+        "specifications": ["15.6-inch 144Hz display", "Intel Core i7", "16GB RAM", "512GB NVMe SSD"],
+        "image": "acer_predator_helios_300.jpg",
+        "description": "Gaming laptop with high refresh rate and powerful graphics.",
+        "warranty": {"duration": 2, "description": "Standard manufacturer warranty."}
+      },
+      {
+        "name": "Inspiron 14",
+        "brand": "Dell",
+        "model": "Inspiron 14 2-in-1",
+        "price": 799.99,
+        "specifications": ["14-inch FHD touchscreen", "Intel Core i5", "8GB RAM", "256GB SSD"],
+        "image": "dell_inspiron_14.jpg",
+        "description": "Versatile 2-in-1 laptop for productivity and entertainment.",
+        "warranty": {"duration": 1, "description": "Dell Premium Support available."}
+      },
+      {
+        "name": "Blade 15",
+        "brand": "Razer",
+        "model": "RZ09-0330",
+        "price": 1999.99,
+        "specifications": ["15.6-inch OLED 4K display", "Intel Core i7", "32GB RAM", "1TB SSD"],
+        "image": "razer_blade_15.jpg",
+        "description": "Premium gaming laptop with a stunning 4K OLED display.",
+        "warranty": {"duration": 2, "description": "RazerCare protection plan available."}
+      },
+      {
+        "name": "Gram 17",
+        "brand": "LG",
+        "model": "17Z90P",
+        "price": 1499.99,
+        "specifications": ["17-inch WQXGA display", "Intel Core i7", "16GB RAM", "1TB NVMe SSD"],
+        "image": "lg_gram_17.jpg",
+        "description": "Ultra-lightweight laptop with a large 17-inch display and long battery life.",
+        "warranty": {"duration": 1, "description": "LG Limited Warranty included."}
+      },
+      {
+        "name": "Legion 7",
+        "brand": "Lenovo",
+        "model": "Legion 7i",
+        "price": 1799.99,
+        "specifications": ["15.6-inch 240Hz display", "Intel Core i9", "32GB RAM", "1TB NVMe SSD"],
+        "image": "lenovo_legion_7.jpg",
+        "description": "High-performance gaming laptop with advanced features.",
+        "warranty": {"duration": 2, "description": "Premium Care warranty available."}
+      }                        
+  ]
+  
