@@ -1,0 +1,113 @@
+[
+    {
+      "category": "Headphones",
+      "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+      "brand": "Sony",
+      "model": "WH-1000XM4",
+      "price": 349.99,
+      "specifications": ["Industry-leading noise cancellation", "Touch sensor controls", "30-hour battery life"],
+      "image": "https://www.headphonezone.in/cdn/shop/products/6Headphone-Zone-Sony-WH-1000XM4-Black-1160-1160-5.jpg?v=1597991359&width=1160",
+      "description": "Premium wireless headphones with exceptional noise-canceling technology and long battery life.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Apple AirPods Pro",
+      "brand": "Apple",
+      "model": "AirPods Pro",
+      "price": 249.99,
+      "specifications": ["Active Noise Cancellation", "Transparency mode", "Adaptive EQ"],
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861342000",
+      "description": "Wireless earbuds with Active Noise Cancellation and a customizable fit for immersive sound.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Bose QuietComfort Earbuds",
+      "brand": "Bose",
+      "model": "QuietComfort Earbuds",
+      "price": 279.99,
+      "specifications": ["World-class noise cancellation", "StayHear Max tips", "Sweat and weather-resistant"],
+      "image": "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc_earbuds_ii/product_silo_image/COM-3679_QCEBII-LE_Buds_Front_EclipseGrey_hero.png/jcr:content/renditions/cq5dam.web.320.320.png",
+      "description": "True wireless earbuds with powerful noise cancellation and a secure, comfortable fit.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Sennheiser HD 660 S Over-Ear Headphones",
+      "brand": "Sennheiser",
+      "model": "HD 660 S",
+      "price": 499.95,
+      "specifications": ["Open-back design", "High-quality transducers", "Detachable cable"],
+      "image": "https://m.media-amazon.com/images/I/81GcatbfEvL.jpg",
+      "description": "Premium over-ear headphones delivering exceptional audio quality with an open-back design.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Jabra Elite 75t True Wireless Earbuds",
+      "brand": "Jabra",
+      "model": "Elite 75t",
+      "price": 149.99,
+      "specifications": ["Compact design", "IP55-rated for water and dust resistance", "Up to 28 hours of battery life"],
+      "image": "https://media.croma.com/image/upload/v1682587152/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/222904_0_qrmnxj.png",
+      "description": "Compact true wireless earbuds with a secure fit and durable water-resistant design.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones",
+      "brand": "Audio-Technica",
+      "model": "ATH-M50x",
+      "price": 149.00,
+      "specifications": ["Exceptional clarity and deep bass", "90-degree swiveling earcups", "Detachable cable"],
+      "image": "https://rukminim2.flixcart.com/image/850/1000/headphone/u/x/m/audio-technica-ath-m50x-original-imaebew4fjwz7zw4.jpeg?q=20",
+      "description": "Professional studio monitor headphones with outstanding audio clarity and comfort.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Samsung Galaxy Buds Pro",
+      "brand": "Samsung",
+      "model": "Galaxy Buds Pro",
+      "price": 199.99,
+      "specifications": ["Active Noise Cancellation", "360 Audio", "IPX7 water resistance"],
+      "image": "samsung_galaxy_buds_pro.jpg",
+      "description": "Wireless earbuds with Active Noise Cancellation and immersive 360 Audio technology.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Sony WF-1000XM4 Wireless Earbuds",
+      "brand": "Sony",
+      "model": "WF-1000XM4",
+      "price": 279.99,
+      "specifications": ["Industry-leading noise cancellation", "LDAC for high-quality audio", "Speak-to-chat technology"],
+      "image": "https://www.sony.co.in/content/dam/sony/contents/global/audio/headphones/year2022/wf1000xm4/large-interactive-component-%E2%80%93-360-viewer/1.jpg",
+      "description": "True wireless earbuds with premium audio quality and advanced noise-canceling technology.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Anker Soundcore Liberty Air 2 Pro True Wireless Earbuds",
+      "brand": "Anker",
+      "model": "Soundcore Liberty Air 2 Pro",
+      "price": 129.99,
+      "specifications": ["Hybrid Active Noise Cancellation", "Customizable EQ", "Up to 26 hours of playtime"],
+      "image": "https://rukminim2.flixcart.com/image/850/1000/kkh6zrk0/headphone/t/o/6/liberty-air-2-pro-soundcore-original-imafztahqgrzgsku.jpeg?q=90",
+      "description": "True wireless earbuds with customizable sound, hybrid noise cancellation, and long battery life.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Headphones",
+      "name": "Beats Powerbeats Pro Wireless Earphones",
+      "brand": "Beats",
+      "model": "Powerbeats Pro",
+      "price": 249.95,
+      "specifications": ["Totally wireless", "Adjustable, secure-fit earhooks", "Sweat and water-resistant"],
+      "image": "https://www.aptronixindia.com/media/catalog/product/cache/31f0162e6f7d821d2237f39577122a8a/4/-/4-removebg-preview.png",
+      "description": "Wireless earphones designed for an active lifestyle with a secure fit and powerful sound.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

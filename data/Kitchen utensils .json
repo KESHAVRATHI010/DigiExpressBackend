@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Kitchen Utensils",
+      "name": "OXO Good Grips Silicone Spatula",
+      "brand": "OXO",
+      "model": "Good Grips Silicone Spatula",
+      "price": 12.99,
+      "specifications": ["Heat-resistant", "Non-stick friendly", "Dishwasher safe"],
+      "image": "https://m.media-amazon.com/images/I/614avXLFWhL._AC_UF894,1000_QL80_.jpg",
+      "description": "Versatile silicone spatula with a comfortable grip, suitable for various cooking tasks.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Kitchen Utensils",
+      "name": "Cuisinart Stainless Steel Mixing Bowls",
+      "brand": "Cuisinart",
+      "model": "Stainless Steel Mixing Bowls",
+      "price": 29.99,
+      "specifications": ["Set of 3 different sizes", "Durable stainless steel", "Nesting design"],
+      "image": "https://m.media-amazon.com/images/I/61mu3xXArUL.jpg",
+      "description": "High-quality stainless steel mixing bowls suitable for various cooking and baking needs.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Kitchen Utensils",
+      "name": "KitchenAid Classic Can Opener",
+      "brand": "KitchenAid",
+      "model": "Classic Can Opener",
+      "price": 14.99,
+      "specifications": ["Stainless steel blade", "Easy-turn knob", "Dishwasher safe"],
+      "image": "https://m.media-amazon.com/images/I/71KPE1UaReL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Sturdy can opener with a stainless steel blade and ergonomic design for easy use.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Kitchen Utensils",
+      "name": "Joseph Joseph Elevate Carousel Utensil Set",
+      "brand": "Joseph Joseph",
+      "model": "Elevate Carousel Utensil Set",
+      "price": 39.99,
+      "specifications": ["Set of 6 essential utensils", "Integrated tool rest", "Non-slip handles"],
+      "image": "https://m.media-amazon.com/images/I/61iQQDCfZGL.jpg",
+      "description": "Colorful and practical utensil set with an integrated carousel for easy storage.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Kitchen Utensils",
+      "name": "Pyrex Glass Measuring Cups",
+      "brand": "Pyrex",
+      "model": "Glass Measuring Cups",
+      "price": 17.99,
+      "specifications": ["Set of 3 different sizes", "Durable glass", "Easy-to-read measurement markings"],
+      "image": "https://m.media-amazon.com/images/I/81iEUZ2Q8pL._AC_UF894,1000_QL80_.jpg",
+      "description": "Essential glass measuring cups for accurate and easy-to-read liquid measurements.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

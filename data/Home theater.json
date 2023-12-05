@@ -1,0 +1,47 @@
+[
+    {
+      "category": "Home theater",
+      "name": "Sonos Arc Dolby Atmos Soundbar",
+      "brand": "Sonos",
+      "model": "Arc",
+      "price": 799.99,
+      "specifications": ["Dolby Atmos support", "Voice control", "Trueplay technology"],
+      "image": "https://media.sonos.com/images/znqtjj88/production/bee9786c756c4e4cbd55c9902b484ffb15e008ea-3331x2257.png?w=3840&q=100&fit=clip&auto=format",
+      "description": "Immersive soundbar with Dolby Atmos support for a cinematic home theater experience.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Home theater",
+      "name": "Sony STR-DN1080 7.2 Channel Home Theater AV Receiver",
+      "brand": "Sony",
+      "model": "STR-DN1080",
+      "price": 599.99,
+      "specifications": ["7.2 channels", "Dolby Atmos and DTS:X support", "Bluetooth connectivity"],
+      "image": "https://cdn.mos.cms.futurecdn.net/Gi4FooqA5XqiJH7tE47vwQ-480-80.jpg",
+      "description": "High-quality AV receiver with support for advanced audio formats and Bluetooth connectivity.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Home theater",
+      "name": "Bose Acoustimass 10 Series V Home Theater Speaker System",
+      "brand": "Bose",
+      "model": "Acoustimass 10 Series V",
+      "price": 999.99,
+      "specifications": ["5.1 channel surround sound", "Powerful Acoustimass module", "Direct/Reflecting speakers"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/XM/XT/RC/131405378/boss-speaker.jpg",
+      "description": "Premium home theater speaker system delivering powerful surround sound.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Home theater",
+      "name": "Samsung HW-Q950T 9.1.4ch Soundbar with Dolby Atmos/DTS:X",
+      "brand": "Samsung",
+      "model": "HW-Q950T",
+      "price": 1399.99,
+      "specifications": ["9.1.4 channels", "Dolby Atmos and DTS:X support", "Wireless subwoofer and rear speakers"],
+      "image": "https://www.jiomart.com/images/product/original/491898105/samsung-hw-q950t-xl-9-1-4-channel-sound-bar-digital-o491898105-p590778271-1-202109141845.jpeg?im=Resize=(420,420)",
+      "description": "Immersive soundbar with a 9.1.4 channel setup, perfect for Dolby Atmos and DTS:X audio.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

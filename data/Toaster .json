@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Toaster",
+    "name": "Breville BTA830XL Smart Toaster",
+    "brand": "Breville",
+    "model": "BTA830XL",
+    "price": 129.95,
+    "specifications": ["4-slice capacity", "Motorized lift", "Smart technology with 'A Bit More' function"],
+    "image": "https://m.media-amazon.com/images/I/81oKEXnCzeL.jpg",
+    "description": "High-end toaster with smart features and motorized lift for precise toasting.",
+    "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+  },
+  {
+    "category": "Toaster",
+    "name": "Cuisinart CPT-180P1 Metal Classic 4-Slice Toaster",
+    "brand": "Cuisinart",
+    "model": "CPT-180P1",
+    "price": 69.99,
+    "specifications": ["4-slice capacity", "Dual control panels", "Custom control: 6-setting browning dials"],
+    "image": "https://m.media-amazon.com/images/I/61vcC6UMDwL.jpg",
+    "description": "Classic 4-slice toaster with dual control panels for versatile toasting options.",
+    "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+  },
+  {
+    "category": "Toaster",
+    "name": "Hamilton Beach 22720 Toastation Toaster Oven",
+    "brand": "Hamilton Beach",
+    "model": "22720",
+    "price": 59.99,
+    "specifications": ["2-in-1 compact toaster and oven", "Top slot functions as a traditional toaster", "Wide toasting slots"],
+    "image": "https://i.pinimg.com/originals/2a/18/69/2a1869e19a8dc0c870170e38db6603df.jpg",
+    "description": "Versatile toaster oven combo with a compact design, ideal for small kitchens.",
+    "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+  },
+  {
+    "category": "Toaster",
+    "name": "Oster TSSTTRWF4S 4-Slice Toaster",
+    "brand": "Oster",
+    "model": "TSSTTRWF4S",
+    "price": 39.99,
+    "specifications": ["4-slice capacity", "7 toast shade settings", "Extra-wide slots for bagels and artisan breads"],
+    "image": "https://m.media-amazon.com/images/I/4155AOTKZ3L._SL1500_.jpg",
+    "description": "Affordable 4-slice toaster with multiple shade settings and extra-wide slots.",
+    "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+  },
+  {
+    "category": "Toaster",
+    "name": "BLACK+DECKER 2-Slice Extra Wide Toaster",
+    "brand": "BLACK+DECKER",
+    "model": "TR1278B",
+    "price": 24.99,
+    "specifications": ["2-slice capacity", "Extra-wide slots", "Bagel and frozen functions"],
+    "image": "https://i.pinimg.com/474x/e1/02/66/e10266d1dde96b5de476054d4cf37de1.jpg",
+    "description": "Compact 2-slice toaster with extra-wide slots and specialized functions for bagels and frozen items.",
+    "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Storage devices",
+      "name": "Samsung T5 Portable SSD",
+      "brand": "Samsung",
+      "model": "T5",
+      "price": 129.99,
+      "specifications": ["500GB storage capacity", "USB 3.1 Gen 2 interface", "Compact and portable design"],
+      "image": "https://heyjimmy.in/wp-content/uploads/2022/08/Samsung-T5-1TB-Portable-SSD-USB-3.1-Online-Buy-Mumbai-India_1.jpg",
+      "description": "Fast and reliable portable SSD for high-speed data transfer and secure storage.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Storage devices",
+      "name": "Western Digital My Cloud Home",
+      "brand": "Western Digital",
+      "model": "My Cloud Home",
+      "price": 199.99,
+      "specifications": ["4TB storage capacity", "Personal cloud storage", "Mobile app access"],
+      "image": "https://m.media-amazon.com/images/I/71bQ0VKw+bL.jpg",
+      "description": "Personal cloud storage solution with easy access from anywhere using a mobile app.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Storage devices",
+      "name": "Seagate BarraCuda Internal HDD",
+      "brand": "Seagate",
+      "model": "BarraCuda",
+      "price": 79.99,
+      "specifications": ["2TB storage capacity", "7200 RPM", "SATA 6Gb/s interface"],
+      "image": "https://www.tpstech.in/cdn/shop/products/2Tb_9bcb9bc9-6170-4762-a922-35929514523a_800x.jpg?v=1649666602",
+      "description": "High-capacity internal HDD with fast performance for desktop computers.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Storage devices",
+      "name": "SanDisk Extreme PRO SDXC Memory Card",
+      "brand": "SanDisk",
+      "model": "Extreme PRO SDXC",
+      "price": 49.99,
+      "specifications": ["128GB storage capacity", "UHS-I U3, Class 10", "Read speed up to 170MB/s"],
+      "image": "https://rukminim2.flixcart.com/image/850/1000/k6l2vm80/memory-card/sdxc/z/f/m/sandisk-sdsdxxy-128g-gn4in-original-imafe6anhgyhsvpb.jpeg?q=90",
+      "description": "High-performance SDXC memory card for professional photographers and videographers.",
+      "warranty": { "duration": 5, "description": "Five-year limited warranty" }
+    },
+    {
+      "category": "Storage devices",
+      "name": "Kingston DataTraveler USB Flash Drive",
+      "brand": "Kingston",
+      "model": "DataTraveler",
+      "price": 19.99,
+      "specifications": ["32GB storage capacity", "USB 3.0 interface", "Compact and durable design"],
+      "image": "https://2.imimg.com/data2/DM/XC/IMFCP-3391046/0001140_300-500x500.jpg",
+      "description": "Reliable USB flash drive for convenient and portable data storage.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

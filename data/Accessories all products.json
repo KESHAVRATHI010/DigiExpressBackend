@@ -1,0 +1,1136 @@
+[
+    {
+        "category": "Accessories Home appliances",
+        "name": "Nest Learning Thermostat",
+        "brand": "Google",
+        "model": "3rd Generation",
+        "price": 249.99,
+        "specifications": [
+            "Smart Wi-Fi control",
+            "Energy-saving features",
+            "Compatible with voice assistants"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71mQb+Qg6iL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Smart thermostat that learns your preferences and helps save energy.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Honeywell Smart Humidifier",
+        "brand": "Honeywell",
+        "model": "HCM350W",
+        "price": 64.99,
+        "specifications": [
+            "Cool mist technology",
+            "Adjustable humidity settings",
+            "Easy to clean"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71MmdpW6IfS.jpg",
+        "description": "Smart humidifier for maintaining optimal indoor humidity levels.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Logitech MX Master 3 Wireless Mouse",
+        "brand": "Logitech",
+        "model": "MX Master 3",
+        "price": 99.99,
+        "specifications": [
+            "Advanced ergonomic design",
+            "Customizable buttons",
+            "Flow cross-computer control"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61VjlQUqQDL.jpg",
+        "description": "High-performance wireless mouse for desktop productivity.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Corsair K95 RGB Platinum XT Mechanical Keyboard",
+        "brand": "Corsair",
+        "model": "K95 RGB Platinum XT",
+        "price": 199.99,
+        "specifications": [
+            "Cherry MX mechanical switches",
+            "RGB backlighting",
+            "Programmable macro keys"
+        ],
+        "image": "https://www.geeky-gadgets.com/wp-content/uploads/2022/06/Corsair-mechanical-keyboard.webp",
+        "description": "Premium mechanical gaming keyboard with customizable features.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Bose Companion 2 Series III Multimedia Speakers",
+        "brand": "Bose",
+        "model": "Companion 2 Series III",
+        "price": 99.99,
+        "specifications": [
+            "Clear, full sound",
+            "Volume control on the front",
+            "Headphone jack for private listening"
+        ],
+        "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/companion_2_series_iii_multimedia_speaker_system/product_silo_images/companion2_black_EC.psd/_jcr_content/renditions/cq5dam.web.320.320.png",
+        "description": "High-quality multimedia speakers for desktop audio enhancement.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Anker USB-C Hub",
+        "brand": "Anker",
+        "model": "PowerExpand+ 7-in-1",
+        "price": 49.99,
+        "specifications": [
+            "7-in-1 connectivity",
+            "Power delivery",
+            "Compact and portable"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61gciQ4Uu9L.jpg",
+        "description": "Versatile USB-C hub for expanding laptop connectivity.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Samsonite Classic Business Laptop Bag",
+        "brand": "Samsonite",
+        "model": "Xenon 3.0",
+        "price": 39.99,
+        "specifications": [
+            "Padded laptop compartment",
+            "Smart sleeve for easy attachment to luggage",
+            "Durable ballistic nylon"
+        ],
+        "image": "https://m.media-amazon.com/images/I/91+ojBrxKLL._AC_UY1100_.jpg",
+        "description": "Professional laptop bag for secure and stylish transport.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Logitech MX Anywhere 3 Wireless Mouse",
+        "brand": "Logitech",
+        "model": "MX Anywhere 3",
+        "price": 79.99,
+        "specifications": [
+            "Compact and portable design",
+            "Easy-Switch technology",
+            "Precision tracking"
+        ],
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/7/PY/PR/QM/155207952/logitech-mx-anywhere-3-wireless-mouse.png",
+        "description": "Travel-friendly wireless mouse for on-the-go productivity.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "HP Laptop Cooling Pad",
+        "brand": "HP",
+        "model": "H1D24AA",
+        "price": 29.99,
+        "specifications": [
+            "Slim and lightweight",
+            "Adjustable fan speed",
+            "USB-powered"
+        ],
+        "image": "https://in-media.apjonlinecdn.com/wysiwyg/2-Topmate_C5_Laptop_Cooler.jpg",
+        "description": "Cooling pad to prevent laptop overheating during extended use.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "AirPods Pro Case Cover",
+        "brand": "elago",
+        "model": "Glow in the Dark",
+        "price": 12.99,
+        "specifications": [
+            "Protective silicone cover",
+            "Glow-in-the-dark design",
+            "Precise fit for AirPods Pro"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51IiHFwsyIL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Stylish and protective case cover for AirPods Pro.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Bose SoundLink Around-Ear Wireless Headphones II Carrying Case",
+        "brand": "Bose",
+        "model": "SoundLink Carrying Case",
+        "price": 19.99,
+        "specifications": [
+            "Durable and stylish case",
+            "Interior pockets for accessories",
+            "Zipper closure"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71Wwt-HG0vL.jpg",
+        "description": "Protective carrying case for Bose SoundLink wireless headphones.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Sonos Playbar Wall Mount Kit",
+        "brand": "Sonos",
+        "model": "WM1 Wall Mount Kit",
+        "price": 39.99,
+        "specifications": [
+            "Secure wall mounting",
+            "Easy installation",
+            "Designed for Sonos Playbar"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61K8yieSWqL.jpg",
+        "description": "Wall mount kit for Sonos Playbar, providing a sleek and secure installation.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Apple TV 4K Remote Case",
+        "brand": "Apple",
+        "model": "SaharaCase Protective Cover",
+        "price": 14.99,
+        "specifications": [
+            "Shockproof design",
+            "Precise cutouts",
+            "Includes wrist strap"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71m7ysGkZML.jpg",
+        "description": "Protective case for Apple TV 4K remote, adding durability and style.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Bose SoundLink Revolve Charging Cradle",
+        "brand": "Bose",
+        "model": "Revolve Cradle",
+        "price": 29.99,
+        "specifications": [
+            "Convenient charging base",
+            "Compact design",
+            "Compatible with SoundLink Revolve speakers"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51HUXOvhPxL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Charging cradle for Bose SoundLink Revolve, keeping your speaker charged and ready.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Chromecast Audio Adapter",
+        "brand": "Google",
+        "model": "Chromecast Audio",
+        "price": 29.99,
+        "specifications": [
+            "Wireless audio streaming",
+            "Multi-room sync",
+            "Works with various audio apps"
+        ],
+        "image": "https://m.media-amazon.com/images/I/81hDH1pwXeL.jpg",
+        "description": "Chromecast Audio adapter for turning your speakers into smart, wireless devices.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "VIVO Dual LCD Monitor Desk Mount Stand",
+        "brand": "VIVO",
+        "model": "STAND-V002",
+        "price": 39.99,
+        "specifications": [
+            "Dual monitor mount",
+            "Adjustable arms",
+            "Cable management system"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51zEchknY-L.jpg",
+        "description": "Desk mount stand for dual LCD monitors, providing ergonomic flexibility.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "BenQ ScreenBar e-Reading LED Task Lamp",
+        "brand": "BenQ",
+        "model": "ScreenBar",
+        "price": 99.99,
+        "specifications": [
+            "Auto-dimming",
+            "Color temperature adjustment",
+            "Space-saving design"
+        ],
+        "image": "https://image.benq.com/is/image/benqco/together45?$ResponsivePreset$&fmt=png-alpha",
+        "description": "LED task lamp designed for reducing eye strain during prolonged monitor use.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Logitech MX Sound 2.0 Bluetooth Speakers",
+        "brand": "Logitech",
+        "model": "MX Sound",
+        "price": 99.99,
+        "specifications": [
+            "High-quality audio",
+            "Easy switch between devices",
+            "Backlit touch controls"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51oCYrTn2GL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Bluetooth speakers designed to complement your monitor setup with premium sound.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "AmazonBasics Single Monitor Stand",
+        "brand": "AmazonBasics",
+        "model": "K001395",
+        "price": 29.99,
+        "specifications": [
+            "Single monitor mount",
+            "Tilt and swivel adjustments",
+            "Cable clips for organization"
+        ],
+        "image": "https://m.media-amazon.com/images/I/716RFHGk8iL.jpg",
+        "description": "Sturdy stand for single monitors, enhancing workspace organization and comfort.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Anker PowerCore 10000 Portable Charger",
+        "brand": "Anker",
+        "model": "PowerCore 10000",
+        "price": 29.99,
+        "specifications": [
+            "High-speed charging",
+            "Compact and lightweight",
+            "PowerIQ technology"
+        ],
+        "image": "https://images-cdn.ubuy.co.in/64b7a62cc3d90d309233c6a6-anker-powercore-select-10000-portable.jpg",
+        "description": "Portable charger with a high capacity for charging mobile phones on the go.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "PopSockets PopGrip Phone Grip and Stand",
+        "brand": "PopSockets",
+        "model": "PopGrip",
+        "price": 14.99,
+        "specifications": [
+            "Expandable grip",
+            "Functions as a stand",
+            "Swappable design"
+        ],
+        "image": "https://photos5.appleinsider.com/gallery/46027-89586-Mickey-Enamel-Top-xl.jpg",
+        "description": "Phone grip and stand accessory for added convenience and style.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Spigen Liquid Air Armor iPhone Case",
+        "brand": "Spigen",
+        "model": "Liquid Air Armor",
+        "price": 19.99,
+        "specifications": [
+            "Slim and lightweight",
+            "Shock-absorbing TPU",
+            "Air cushion technology"
+        ],
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1698395425/Croma%20Assets/Communication/Cases%20and%20Covers/Images/302615_ncbj5y.png",
+        "description": "Protective iPhone case with a sleek design and advanced shock absorption.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Tile Mate Bluetooth Tracker",
+        "brand": "Tile",
+        "model": "RT-05001-NA",
+        "price": 24.99,
+        "specifications": [
+            "Bluetooth tracking",
+            "Replaceable battery",
+            "Water-resistant"
+        ],
+        "image": "https://play-lh.googleusercontent.com/Ufc-Ca-SD_MxaKcJoqrgI3SZQjJ9xM71tjHTEU2XSNCwuE_acfSp_bnAaw-eHexFYZI0=w240-h480-rw",
+        "description": "Bluetooth tracker to help you find your phone or other belongings easily.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "HP 63 Black & Tri-color Ink Cartridges",
+        "brand": "HP",
+        "model": "L0R46AN#140",
+        "price": 49.99,
+        "specifications": [
+            "Genuine HP ink",
+            "High-yield cartridges",
+            "Reliable and consistent results"
+        ],
+        "image": "https://images-cdn.ubuy.co.in/6342fd8364e1c46a793d5fb7-hp-63-ink-cartridges-tri-color-2.jpg",
+        "description": "Original HP ink cartridges for vibrant and reliable printing performance.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Brother Printer Drum Unit DR730",
+        "brand": "Brother",
+        "model": "DR730",
+        "price": 79.99,
+        "specifications": [
+            "Genuine Brother drum unit",
+            "Easy to install",
+            "High-quality printing"
+        ],
+        "image": "https://rukminim2.flixcart.com/image/850/1000/l4bn5ow0/inktoner/f/e/c/tn-324-cdr-2365-drum-unit-compatible-with-brother-dcp-l2541dw-hl-original-imagf8wn4bdqffz7.jpeg?q=20",
+        "description": "Replacement drum unit for Brother printers, ensuring optimal print quality.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Epson Premium Presentation Paper Matte",
+        "brand": "Epson",
+        "model": "S041180",
+        "price": 17.99,
+        "specifications": [
+            "High-quality matte finish",
+            "Perfect for presentations",
+            "Works with inkjet printers"
+        ],
+        "image": "https://m.media-amazon.com/images/I/719J1I9ZEaL.jpg",
+        "description": "Matte presentation paper for professional-looking prints on Epson inkjet printers.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Silicone Oven Mitts",
+        "brand": "KitchenAid",
+        "model": "KSMOFTA",
+        "price": 14.99,
+        "specifications": [
+            "Heat-resistant silicone",
+            "Textured grip",
+            "Flexible and comfortable"
+        ],
+        "image": "https://mobileimages.lowes.com/productimages/fce51577-2872-4db6-a518-7c54eb49e4b2/49567921.jpg?size=pdhism",
+        "description": "Durable and heat-resistant silicone oven mitts for safe and comfortable cooking.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Pyrex Glass Bakeware Set",
+        "brand": "Pyrex",
+        "model": "Easy Grab",
+        "price": 34.99,
+        "specifications": [
+            "Dishwasher-safe",
+            "Oven and microwave safe",
+            "BPA-free lids"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71o3eQRqJtL.jpg",
+        "description": "Versatile glass bakeware set for baking, microwaving, and storing leftovers.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Digital Meat Thermometer",
+        "brand": "ThermoPro",
+        "model": "TP03B",
+        "price": 19.99,
+        "specifications": [
+            "Instant-read",
+            "Accurate temperature measurement",
+            "Foldable design"
+        ],
+        "image": "https://images-cdn.ubuy.co.in/634f933d1cd8b0107d6db0f8-thermopro-digital-meat-thermometer-for.jpg",
+        "description": "Digital meat thermometer for precise temperature readings in ovens and grills.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Magnetic Dry Erase Whiteboard for Fridge",
+        "brand": "Kedudes",
+        "model": "KE-000",
+        "price": 9.99,
+        "specifications": [
+            "Magnetic backing",
+            "Dry erase surface",
+            "Weekly planner design"
+        ],
+        "image": "https://images-cdn.ubuy.co.in/634ab3f21f941671317c2706-8-5-x-11.jpg",
+        "description": "Convenient dry erase whiteboard for fridge to keep track of groceries and tasks.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Refrigerator Water Filter Replacement",
+        "brand": "EveryDrop",
+        "model": "EDR1RXD1",
+        "price": 39.99,
+        "specifications": [
+            "Certified to reduce contaminants",
+            "Easy to install",
+            "Fits various refrigerator models"
+        ],
+        "image": "https://images.thdstatic.com/productImages/8f462bd5-a89a-4c67-a976-aa7eb916b470/svn/whirlpool-refrigerator-water-filters-edr1rxd1-1f_600.jpg",
+        "description": "Replacement water filter for refrigerators, ensuring clean and fresh water.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Cast Iron Skillet",
+        "brand": "Lodge",
+        "model": "L8SK3",
+        "price": 24.99,
+        "specifications": [
+            "Pre-seasoned",
+            "Versatile for various cooking methods",
+            "Even heat distribution"
+        ],
+        "image": "https://tfe.co.nz/wp-content/uploads/2022/09/lodge-cast-iron-skillet-335mm.jpg",
+        "description": "Pre-seasoned cast iron skillet for versatile cooking on stoves and ovens.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Stainless Steel Cookware Set",
+        "brand": "Cuisinart",
+        "model": "Multiclad Pro",
+        "price": 199.99,
+        "specifications": [
+            "Triple-ply construction",
+            "Dishwasher-safe",
+            "Induction compatible"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71DwqGSnhEL._AC_UF894,1000_QL80_.jpg",
+        "description": "Premium stainless steel cookware set for efficient cooking on stovetops.",
+        "warranty": {
+            "duration": 3,
+            "description": "Three-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "SanDisk Extreme Pro Portable SSD",
+        "brand": "SanDisk",
+        "model": "SDSSDE81-1T00-A25",
+        "price": 149.99,
+        "specifications": [
+            "1TB storage capacity",
+            "High-speed NVMe technology",
+            "Shock-resistant design"
+        ],
+        "image": "https://computechstore.in/wp-content/uploads/2023/02/SanDisk-1-TB-Extreme-Portable-Solid-State-Drive-2.jpg",
+        "description": "Portable SSD for fast and reliable storage on the go.",
+        "warranty": {
+            "duration": 3,
+            "description": "Three-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Seagate Backup Plus External Hard Drive",
+        "brand": "Seagate",
+        "model": "STHP4000400",
+        "price": 89.99,
+        "specifications": [
+            "4TB storage capacity",
+            "USB 3.0 connectivity",
+            "Automatic backup software"
+        ],
+        "image": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/syndication-feed/backup-plus-hub/_shared/images/bup-desk-usb-right-400x400.jpg",
+        "description": "External hard drive with ample storage and easy backup capabilities.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "WD Black SN750 NVMe Internal Gaming SSD",
+        "brand": "Western Digital",
+        "model": "WDS500G3X0C",
+        "price": 129.99,
+        "specifications": [
+            "500GB storage capacity",
+            "High-performance gaming SSD",
+            "NVMe interface"
+        ],
+        "image": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-black-sn750-nvme-ssd/gallery/without-heatsink/wd-black-sn750-nvme-ssd-noheatsink1.png.thumb.1280.1280.png",
+        "description": "Internal SSD designed for gaming with fast data transfer speeds.",
+        "warranty": {
+            "duration": 5,
+            "description": "Five-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Lexar Professional USB 3.0 Dual-Slot Card Reader",
+        "brand": "Lexar",
+        "model": "LRW400CRBNA",
+        "price": 24.99,
+        "specifications": [
+            "Dual-slot card reader",
+            "USB 3.0 interface",
+            "Transfer speeds up to 500MB/s"
+        ],
+        "image": "https://fotocentreindia.com/wp-content/uploads/2022/06/Lexar-Dual-Slot-Card-Reader-Type-C-3.2-Online-Buy-Mumbai-India_01.jpg",
+        "description": "Card reader for fast and efficient transfer of photos and videos.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Apple Pencil (2nd Generation)",
+        "brand": "Apple",
+        "model": "MU8F2AM/A",
+        "price": 129.99,
+        "specifications": [
+            "Pressure sensitivity",
+            "Double-tap gesture",
+            "Wireless charging"
+        ],
+        "image": "https://appleplanetccs.com/articulos/accesories/pencil2/img/1.png",
+        "description": "Precision stylus for iPad Pro with advanced features for creative tasks.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Logitech Slim Folio Pro Keyboard Case",
+        "brand": "Logitech",
+        "model": "920-009040",
+        "price": 119.99,
+        "specifications": [
+            "Backlit keys",
+            "Integrated keyboard",
+            "Protective case for iPad Pro"
+        ],
+        "image": "https://i.rtings.com/assets/products/nO9wmsSS/logitech-slim-folio-pro/design-medium.jpg",
+        "description": "Keyboard case for iPad Pro offering a laptop-like typing experience.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Anker PowerPort PD 2 USB-C Wall Charger",
+        "brand": "Anker",
+        "model": "AK-A2623121",
+        "price": 29.99,
+        "specifications": [
+            "18W Power Delivery",
+            "Compact design",
+            "Universal compatibility"
+        ],
+        "image": "https://m.media-amazon.com/images/I/518rV9mGJ3S._AC_UF1000,1000_QL80_.jpg",
+        "description": "USB-C wall charger for fast charging of tablets and other devices.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Amazon Fire TV Stick 4K",
+        "brand": "Amazon",
+        "model": "Fire TV Stick 4K",
+        "price": 49.99,
+        "specifications": [
+            "4K Ultra HD streaming",
+            "Alexa voice remote",
+            "Dolby Vision support"
+        ],
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1649744040/Croma%20Assets/Entertainment/Media%20Streaming%20Devices/Images/250408_bdaqku.png",
+        "description": "Streaming device for 4K content with voice control and smart home integration.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Samsung Soundbar with Wireless Subwoofer",
+        "brand": "Samsung",
+        "model": "HW-T450",
+        "price": 199.99,
+        "specifications": [
+            "2.1 channel sound",
+            "Wireless subwoofer",
+            "Bluetooth connectivity"
+        ],
+        "image": "https://cdn.bajajelectronics.com/product/3bfbce76-c1b1-478f-a8e5-2b7c71352cc0",
+        "description": "Soundbar with wireless subwoofer for enhanced TV audio experience.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Roku Ultra Streaming Player",
+        "brand": "Roku",
+        "model": "4670R",
+        "price": 99.99,
+        "specifications": [
+            "4K HDR streaming",
+            "Enhanced voice remote",
+            "USB and Ethernet ports"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61hpvCuXhpL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Streaming player for high-quality 4K HDR content with advanced features.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "VIVO Universal LCD LED Flat Screen TV Table Top Stand",
+        "brand": "VIVO",
+        "model": "STAND-TV00T",
+        "price": 24.99,
+        "specifications": [
+            "Tabletop TV stand",
+            "Anti-slip padding",
+            "Fits most TVs up to 65 inches"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71q6I6N52BL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Universal tabletop stand for stability and flexibility in TV placement.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Fitbit Versa 3 Bands",
+        "brand": "Fitbit",
+        "model": "Versa 3 Bands",
+        "price": 19.99,
+        "specifications": [
+            "Replacement bands",
+            "Variety of colors",
+            "Comfortable and durable"
+        ],
+        "image": "https://www.getuscart.com/images/thumbs/0951617_getino-compatible-for-fitbit-sense-bands-fitbit-versa-3-bands-women-men-soft-waterproof-and-durable-_550.jpeg",
+        "description": "Interchangeable bands for Fitbit Versa 3, allowing personalization and comfort.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Apple Watch Magnetic Charging Cable",
+        "brand": "Apple",
+        "model": "MJVX2AM/A",
+        "price": 29.99,
+        "specifications": [
+            "Magnetic charging",
+            "1m cable length",
+            "Compatible with all Apple Watch models"
+        ],
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MX2E2?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1577136744681",
+        "description": "Magnetic charging cable for convenient charging of Apple Watch devices.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Garmin HRM-Pro Heart Rate Monitor",
+        "brand": "Garmin",
+        "model": "010-12955-00",
+        "price": 129.99,
+        "specifications": [
+            "Advanced heart rate monitoring",
+            "ANT+ and Bluetooth connectivity",
+            "Comfortable strap design"
+        ],
+        "image": "https://www.garmin.co.in/m/in/g/products/hrm-pro-plus-cf-lg.jpg",
+        "description": "Heart rate monitor with advanced features for Garmin wearable devices.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year warranty included"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Samsung Galaxy Watch Active2 Wireless Charger",
+        "brand": "Samsung",
+        "model": "EP-OR825BBEGUS",
+        "price": 39.99,
+        "specifications": [
+            "Wireless charging pad",
+            "Compact and portable",
+            "Fast charging"
+        ],
+        "image": "https://rukminim2.flixcart.com/image/850/1000/l1jmc280/charging-pad/s/k/e/charger-compatible-with-samsung-galaxy-watch-4-classic46mm-original-imagd34f7yxxfnzb.jpeg?q=90",
+        "description": "Wireless charger designed for Samsung Galaxy Watch Active2 for convenient charging on the go.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Affresh Washing Machine Cleaner",
+        "brand": "Affresh",
+        "model": "W10501250",
+        "price": 9.99,
+        "specifications": [
+            "Removes odor-causing residues",
+            "Effervescent tablet",
+            "Safe for all washing machines"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71BYBW0DyOL.jpg",
+        "description": "Effective cleaning tablets to eliminate odors and residues in washing machines.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Lint Trap for Washing Machine Drain Hose",
+        "brand": "TubShroom",
+        "model": "TS-TLSH-11",
+        "price": 11.99,
+        "specifications": [
+            "Prevents lint clogs",
+            "Flexible design",
+            "Easy installation"
+        ],
+        "image": "https://m.media-amazon.com/images/I/81CgTX0ypIL.jpg",
+        "description": "Lint trap for washing machine drain hoses to prevent clogs and maintain efficiency.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Adjustable Washing Machine Stand",
+        "brand": "Hosom",
+        "model": "HMWF-017",
+        "price": 29.99,
+        "specifications": [
+            "Heavy-duty construction",
+            "Adjustable height",
+            "Anti-vibration pads"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51-IYuGxuvL.jpg",
+        "description": "Sturdy stand to elevate and stabilize washing machines for improved performance.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Washing Machine Cover",
+        "brand": "Mr.You",
+        "model": "MRWMCT-002",
+        "price": 19.99,
+        "specifications": [
+            "Waterproof fabric",
+            "Zipper design",
+            "Protects from dust and scratches"
+        ],
+        "image": "https://rukminim2.flixcart.com/image/850/1000/k62i5jk0/appliance-cover/x/n/9/flmc27-unique-traders-original-imaff2rzsrzh4amx.jpeg?q=90",
+        "description": "Waterproof cover to protect washing machines from dust, scratches, and moisture.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "HEPA Replacement Filter for Vacuum Cleaner",
+        "brand": "BISSELL",
+        "model": "16871",
+        "price": 14.99,
+        "specifications": [
+            "HEPA filtration",
+            "Easy to install",
+            "Captures fine dust and allergens"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51re6Qish0L._AC_UF1000,1000_QL80_.jpg",
+        "description": "HEPA replacement filter for vacuum cleaners to maintain clean and healthy air.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "iRobot Roomba Replacement Brushes",
+        "brand": "iRobot",
+        "model": "800 and 900 Series",
+        "price": 29.99,
+        "specifications": [
+            "Dual rubber brushes",
+            "Easy to replace",
+            "Compatible with Roomba 800 and 900 series"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61B-iwlemFL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Replacement brushes for Roomba vacuum cleaners for optimal cleaning performance.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Eureka Vacuum Cleaner Bags",
+        "brand": "Eureka",
+        "model": "60295C",
+        "price": 8.99,
+        "specifications": [
+            "Disposable bags",
+            "Fits various Eureka vacuum models",
+            "High filtration efficiency"
+        ],
+        "image": "https://m.media-amazon.com/images/I/91uOFJY5SOL._AC_UF894,1000_QL80_.jpg",
+        "description": "Disposable vacuum cleaner bags for convenient and efficient dust disposal.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Flexible Vacuum Cleaner Hose Extension",
+        "brand": "LANMU",
+        "model": "A02225A00",
+        "price": 19.99,
+        "specifications": [
+            "Flexible extension",
+            "Universal fit",
+            "Durable and stretchable"
+        ],
+        "image": "https://m.media-amazon.com/images/I/61Ov7SdcJ3L._AC_UF1000,1000_QL80_.jpg",
+        "description": "Flexible hose extension for vacuum cleaners to reach tight spaces and corners.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Brita Standard Water Filter Replacements",
+        "brand": "Brita",
+        "model": "OB03",
+        "price": 16.99,
+        "specifications": [
+            "Standard filter replacements",
+            "Reduces chlorine taste",
+            "BPA-free"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71Sx6SVm82L.jpg",
+        "description": "Standard replacement filters for Brita water purifiers for clean and refreshing water.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Water Purifier Pitcher",
+        "brand": "ZeroWater",
+        "model": "ZP-010",
+        "price": 34.99,
+        "specifications": [
+            "5-stage filtration",
+            "Includes TDS meter",
+            "Large water capacity"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51B-3Qtjv-L.jpg",
+        "description": "Pitcher-style water purifier with advanced filtration technology for pure drinking water.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Faucet Water Filter",
+        "brand": "PUR",
+        "model": "FM-3700B",
+        "price": 29.99,
+        "specifications": [
+            "Horizontal design",
+            "Easy installation",
+            "Reduces lead and contaminants"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51k9UyVf5RL.jpg",
+        "description": "Faucet-mounted water filter for instant access to clean and filtered water.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Home appliances",
+        "name": "Replacement UV Bulb for Water Purifiers",
+        "brand": "Aquasana",
+        "model": "AQ-UV-RM-CP",
+        "price": 24.99,
+        "specifications": [
+            "Replacement UV-C bulb",
+            "Ensures water purification",
+            "Compatible with specific models"
+        ],
+        "image": "https://www.aquasana.com/dw/image/v2/BDTV_PRD/on/demandware.static/-/Sites-aquasana-master-catalog/default/dwdd268535/images/large/AQ-UV-STD-LAMP.png?sw=800&sh=800",
+        "description": "UV-C bulb replacement for Aquasana water purifiers to maintain effective water sterilization.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Ceiling Mount for Projectors",
+        "brand": "VIVO",
+        "model": "MOUNT-VP01B",
+        "price": 24.99,
+        "specifications": [
+            "Universal projector mount",
+            "Adjustable height",
+            "Durable construction"
+        ],
+        "image": "https://m.media-amazon.com/images/I/51XmOF3GcpL.jpg",
+        "description": "Ceiling mount for projectors to optimize viewing angles and save space.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "120-Inch Projector Screen",
+        "brand": "Elite Screens",
+        "model": "O120H2",
+        "price": 99.99,
+        "specifications": [
+            "120-inch diagonal size",
+            "16:9 aspect ratio",
+            "Durable screen material"
+        ],
+        "image": "https://m.media-amazon.com/images/I/71XTgqzDB8L._AC_UF1000,1000_QL80_.jpg",
+        "description": "Large projector screen for immersive home theater experiences.",
+        "warranty": {
+            "duration": 2,
+            "description": "Two-year limited warranty"
+        }
+    },
+    {
+        "category": "Accessories Electronic appliances",
+        "name": "Wireless Presenter Remote for Projectors",
+        "brand": "Logitech",
+        "model": "R400",
+        "price": 39.99,
+        "specifications": [
+            "Wireless range up to 50 feet",
+            "Intuitive controls",
+            "Red laser pointer"
+        ],
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/12/RI/HX/GK/19521929/logitech-projector-remote-control.jpeg",
+        "description": "Wireless remote control for projectors with convenient features for presentations.",
+        "warranty": {
+            "duration": 1,
+            "description": "One-year limited warranty"
+        }
+    }
+]

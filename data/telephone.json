@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Telephone",
+      "name": "Panasonic KX-TG7875S Link2Cell Bluetooth Cordless Phone",
+      "brand": "Panasonic",
+      "model": "KX-TG7875S",
+      "price": 129.99,
+      "specifications": ["Link2Cell Bluetooth connectivity", "Answering system", "Five handsets included"],
+      "image": "https://m.media-amazon.com/images/I/41DAnZXYiFL.jpg",
+      "description": "Cordless phone system with Bluetooth connectivity for linking to cell phones.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Telephone",
+      "name": "AT&T CL2940 Corded Phone with Speakerphone",
+      "brand": "AT&T",
+      "model": "CL2940",
+      "price": 29.99,
+      "specifications": ["Corded phone with large buttons", "Speakerphone feature", "Caller ID and call waiting"],
+      "image": "https://m.media-amazon.com/images/I/61R3+IcD45L.jpg",
+      "description": "Corded phone with essential features and a speakerphone for hands-free communication.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Telephone",
+      "name": "VTech CS6719-2 DECT 6.0 Cordless Phone with Caller ID",
+      "brand": "VTech",
+      "model": "CS6719-2",
+      "price": 34.99,
+      "specifications": ["DECT 6.0 digital technology", "Caller ID and call waiting", "Two handsets included"],
+      "image": "https://m.media-amazon.com/images/I/41JmvtVJliL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Cordless phone system with digital technology and caller ID functionality.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Telephone",
+      "name": "PANASONIC Expandable Cordless Phone System KX-TGC352B",
+      "brand": "Panasonic",
+      "model": "KX-TGC352B",
+      "price": 49.99,
+      "specifications": ["Expandable cordless phone system", "Call block feature", "Two handsets included"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuW8t6DS25vMP0Ub8D8kYHA6JVZijlKfN0Bg&usqp=CAU",
+      "description": "Expandable cordless phone system with call blocking feature for unwanted calls.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Telephone",
+      "name": "AT&T CL84102 DECT 6.0 Expandable Corded/Cordless Phone",
+      "brand": "AT&T",
+      "model": "CL84102",
+      "price": 69.99,
+      "specifications": ["DECT 6.0 digital technology", "Corded/cordless phone system", "Caller ID and call waiting"],
+      "image": "https://m.media-amazon.com/images/I/71LcXszLL3L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Expandable phone system with both corded and cordless options and advanced calling features.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "category": "Phones",
+      "name": "iPhone 13 Pro",
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "price": 999.99,
+      "specifications": ["Super Retina XDR display", "A15 Bionic chip", "Triple-camera system"],
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_GEO_09142021_inline.jpg.large.jpg",
+      "description": "High-end iPhone with advanced camera capabilities and powerful A15 Bionic chip.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    },
+    {
+      "category": "Phones",
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "price": 1199.99,
+      "specifications": ["108MP camera", "Exynos 2100/Snapdragon 888 chip", "6.8-inch Dynamic AMOLED display"],
+      "image": "https://m.media-amazon.com/images/I/917nPCOw9-L._AC_UF894,1000_QL80_.jpg",
+      "description": "Flagship Samsung phone with an impressive camera system and high-resolution display.",
+      "warranty": { "duration": 2, "description": "Two-year warranty included" }
+    },
+    {
+      "category": "Phones",
+      "name": "Google Pixel 6 Pro",
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "price": 899.99,
+      "specifications": ["50MP camera", "Google Tensor chip", "6.7-inch LTPO OLED display"],
+      "image": "https://s3b.cashify.in/gpro/uploads/2021/05/20050625/google-pixel-6-pro-extra-1.png",
+      "description": "Google's premium Pixel phone with a powerful camera and custom Tensor chip.",
+      "warranty": { "duration": 2, "description": "Two-year warranty provided" }
+    },
+    {
+      "category": "Phones",
+      "name": "OnePlus 9",
+      "brand": "OnePlus",
+      "model": "9",
+      "price": 699.99,
+      "specifications": ["Hasselblad camera system", "Snapdragon 888 chip", "Fluid AMOLED display"],
+      "image": "https://m.media-amazon.com/images/I/614cCf6bzyL.jpg",
+      "description": "OnePlus flagship with a Hasselblad-tuned camera and a smooth Fluid AMOLED display.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Phones",
+      "name": "Xiaomi Mi 11",
+      "brand": "Xiaomi",
+      "model": "Mi 11",
+      "price": 799.99,
+      "specifications": ["108MP camera", "Snapdragon 888 chip", "6.81-inch AMOLED display"],
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/XiaomiMi11Pro.jpg",
+      "description": "Feature-packed Xiaomi phone with a high-resolution camera and vibrant AMOLED display.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Phones",
+      "name": "Sony Xperia 1 III",
+      "brand": "Sony",
+      "model": "",
+      "price": 1099.99,
+      "specifications": ["Triple-camera setup", "Snapdragon 888 chip", "4K HDR OLED display"],
+      "image": "https://www.sony-asia.com/image/bec37fd1196426136aae242507e874b0?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+      "description": "Sony flagship with a focus on photography and a stunning 4K HDR OLED display.",
+      "warranty": { "duration": 2, "description": "Two-year warranty provided" }
+    },
+    {
+      "category": "Phones",
+      "name": "Huawei P40 Pro",
+      "brand": "Huawei",
+      "model": "P40 Pro",
+      "price": 899.99,
+      "specifications": ["50MP Ultra Vision camera", "Kirin 990 chip", "6.58-inch OLED display"],
+      "image": "https://m.media-amazon.com/images/I/61VX0szn4aL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Huawei flagship with a powerful camera system and a vibrant OLED display.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    },
+    {
+      "category": "Phones",
+      "name": "Motorola Edge+",
+      "brand": "Motorola",
+      "model": "Edge+",
+      "price": 999.99,
+      "specifications": ["108MP camera", "Snapdragon 865 chip", "6.7-inch OLED display"],
+      "image": "https://motorolaus.vtexassets.com/arquivos/ids/160392/edge--pdp-render-3iw0wkdvc.png?v=637546060103500000",
+      "description": "Motorola's flagship phone with a high-resolution camera and a large OLED display.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Phones",
+      "name": "Nokia 9 PureView",
+      "brand": "Nokia",
+      "model": "9 PureView",
+      "price": 699.99,
+      "specifications": ["Penta-lens camera", "Snapdragon 845 chip", "5.99-inch pOLED display"],
+      "image": "https://images.ctfassets.net/wcfotm6rrl7u/4pDRiaN6zRcWHkkMggvr0A/b394100cc7693912d9e77fdb1050e109/nokia_9_pureview-DTC-Design.png",
+      "description": "Nokia phone with a unique Penta-lens camera system and a vivid pOLED display.",
+      "warranty": { "duration": 2, "description": "Two-year warranty included" }
+    },
+    {
+      "category": "Phones",
+      "name": "LG Velvet",
+      "brand": "LG",
+      "model": "Velvet",
+      "price": 599.99,
+      "specifications": ["Triple-camera setup", "Snapdragon 765G chip", "6.8-inch OLED display"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/LG_Velvet_Aurora_Green_version.jpg",
+      "description": "LG smartphone with a sleek design, triple-camera setup, and an immersive OLED display.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

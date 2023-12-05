@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Water Purifiers",
+      "name": "Kent RO Grand Plus",
+      "brand": "Kent",
+      "model": "Grand Plus",
+      "price": 299.99,
+      "specifications": ["RO + UV + UF purification", "7-liter water storage", "High purification capacity"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/6/316632984/BC/GM/ZX/153892943/kent-grand-plus-water-purifier.jpg",
+      "description": "Advanced water purifier with multiple purification technologies for safe drinking water.",
+      "warranty": { "duration": 2, "description": "Two-year warranty provided" }
+    },
+    {
+      "category": "Water Purifiers",
+      "name": "Eureka Forbes Aquasure Smart Plus",
+      "brand": "Eureka Forbes",
+      "model": "Aquasure Smart Plus",
+      "price": 199.99,
+      "specifications": ["RO + UV purification", "Smart LED display", "Compact design"],
+      "image": "https://www.eurekaforbes.com/media/catalog/product/cache/5dacb12e56b80562394993655c6849d4/a/q/aquasure-smart-plus-water-purifier-front1.png",
+      "description": "Smart water purifier with advanced features and a user-friendly interface.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Water Purifiers",
+      "name": "Pureit Advanced RO+UV Water Purifier",
+      "brand": "Pureit",
+      "model": "Advanced RO+UV",
+      "price": 149.99,
+      "specifications": ["6-stage purification", "Large water storage", "Auto shut-off feature"],
+      "image": "https://m.media-amazon.com/images/I/81x8dZvnpbL.jpg",
+      "description": "Reliable water purifier with multi-stage purification for clean and safe drinking water.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    },
+    {
+      "category": "Water Purifiers",
+      "name": "Blue Star Aristo RO+UV Water Purifier",
+      "brand": "Blue Star",
+      "model": "Aristo RO+UV",
+      "price": 279.99,
+      "specifications": ["Aqua Taste Booster", "Child lock feature", "Copper impregnated activated carbon"],
+      "image": "https://m.media-amazon.com/images/I/51dT3GDwhFL.jpg",
+      "description": "Aristo water purifier with enhanced taste and a range of safety features.",
+      "warranty": { "duration": 2, "description": "Two-year warranty included" }
+    },
+    {
+      "category": "Water Purifiers",
+      "name": "Livpure Glo 7-Liter RO+UV+UF Water Purifier",
+      "brand": "Livpure",
+      "model": "Glo",
+      "price": 159.99,
+      "specifications": ["7-stage purification", "LED indicators", "Purification capacity of up to 12 liters per hour"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/10/JH/ET/TV/59185139/livpure-glo-ro-uv-mineraliser-6-stage-purification-7-ltr-electric-water-purifier-for-home-white.jpg",
+      "description": "Compact and efficient water purifier with multi-stage purification technology.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

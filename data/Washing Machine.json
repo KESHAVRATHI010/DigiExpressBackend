@@ -1,0 +1,102 @@
+[
+    {
+      "category": "Washing Machines",
+      "name": "LG Front Load Washer",
+      "brand": "LG",
+      "model": "F4J6VG0W",
+      "price": 699.99,
+      "specifications": ["4.5 cu. ft. capacity", "Steam technology", "SmartThinQ technology"],
+      "image": "https://www.lg.com/in/images/washing-machines/md07566062/gallery/FHD1508STB-Washing-Machines-Front-View-Open-D-02.jpg",
+      "description": "Front-loading washing machine with advanced features for efficient cleaning.",
+      "warranty": { "duration": 2, "description": "Two-year warranty provided" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "Samsung Top Load Washer",
+      "brand": "Samsung",
+      "model": "WA50R5400AW",
+      "price": 549.99,
+      "specifications": ["5.0 cu. ft. capacity", "VRT Plus technology", "Self Clean cycle"],
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/wa80bg4542bdtl/gallery/in-wa4000b-wa80bg4542bdtl-533338484?$650_519_PNG$",
+      "description": "Top-loading washing machine with large capacity and self-cleaning function.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "Whirlpool Front Load Washer",
+      "brand": "Whirlpool",
+      "model": "WFW5620HW",
+      "price": 799.99,
+      "specifications": ["4.5 cu. ft. capacity", "Load and Go XL dispenser", "Steam Clean option"],
+      "image": "https://m.media-amazon.com/images/I/61FYOhKpUcL.jpg",
+      "description": "High-capacity front-loading washer with convenient detergent dispensing.",
+      "warranty": { "duration": 2, "description": "Two-year warranty included" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "Bosch Compact Washer",
+      "brand": "Bosch",
+      "model": "WAT28400UC",
+      "price": 899.99,
+      "specifications": ["2.2 cu. ft. capacity", "SpeedPerfect technology", "EcoSilence motor"],
+      "image": "https://www.needlesappliance.com/files/image/attachment/974/WAT28401UC.jpg",
+      "description": "Compact front-loading washer with energy-efficient features and quiet operation.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "Maytag Top Load Washer",
+      "brand": "Maytag",
+      "model": "MVW7230HC",
+      "price": 749.99,
+      "specifications": ["5.2 cu. ft. capacity", "PowerWash agitator", "Deep Fill option"],
+      "image": "https://www.maytag.com/is/image/content/dam/global/maytag/laundry/washer/images/hero-MVW7230HC.tif",
+      "description": "Top-loading washer with a powerful agitator for thorough cleaning.",
+      "warranty": { "duration": 2, "description": "Two-year warranty provided" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "Electrolux Front Load Washer",
+      "brand": "Electrolux",
+      "model": "EFLS627UTT",
+      "price": 1199.99,
+      "specifications": ["4.4 cu. ft. capacity", "Perfect Steam technology", "LuxCare Wash System"],
+      "image": "https://cdn.rona.ca/images/38635013_L.jpg",
+      "description": "Front-loading washer with advanced steam technology and gentle wash system.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "GE Top Load Washer",
+      "brand": "GE Appliances",
+      "model": "GTW335ASNWW",
+      "price": 499.99,
+      "specifications": ["4.2 cu. ft. capacity", "Deep Fill option", "Dual-action agitator"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5xGcOjYK3CtB8nW_apMX7Pyal7XYN47zSV1uWdozYiAj7PLquwhuoHa2--oMlWAp7eg&usqp=CAU",
+      "description": "Reliable top-loading washer with deep fill option for customizable washing.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "Haier Portable Washer",
+      "brand": "Haier",
+      "model": "HLP21N",
+      "price": 299.99,
+      "specifications": ["1.0 cu. ft. capacity", "Portable design", "3 wash cycles"],
+      "image": "https://s3.ap-south-1.amazonaws.com/brandbuddiez.com//23/img/product/34/623/7.jpg",
+      "description": "Compact and portable washer ideal for small spaces and travel.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Washing Machines",
+      "name": "LG Twin Wash System",
+      "brand": "LG",
+      "model": "WM8100HVA",
+      "price": 1599.99,
+      "specifications": ["5.2 cu. ft. main washer", "1.0 cu. ft. SideKick washer", "TurboWash 2.0 technology"],
+      "image": "https://www.lgnewsroom.com/wp-content/uploads/2015/01/LG_Twin_Wash_System_500.jpg",
+      "description": "High-capacity front-loading washer with a secondary SideKick washer for simultaneous laundry.",
+      "warranty": { "duration": 2, "description": "Two-year warranty included" }
+    }
+  ]
+  

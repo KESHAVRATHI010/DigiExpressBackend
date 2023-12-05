@@ -1,0 +1,58 @@
+[
+    {
+      "category": "AC",
+      "name": "Daikin 1.5 Ton 5 Star Split Inverter AC",
+      "brand": "Daikin",
+      "model": "FTKF50TV",
+      "price": 44999.00,
+      "specifications": ["1.5 Ton capacity", "5-star energy rating", "Inverter technology"],
+      "image": "https://5.imimg.com/data5/OF/LM/XI/SELLER-14098449/daikin-inverter-ac.jpg",
+      "description": "Efficient and powerful split inverter AC for optimal cooling and energy savings.",
+      "warranty": { "duration": 1, "description": "One-year comprehensive warranty" }
+    },
+    {
+      "category": "AC",
+      "name": "LG 1.5 Ton 5 Star Wi-Fi Inverter Window AC",
+      "brand": "LG",
+      "model": "JW-Q18WUZA",
+      "price": 38990.00,
+      "specifications": ["1.5 Ton capacity", "5-star energy rating", "Wi-Fi connectivity"],
+      "image": "https://rukminim2.flixcart.com/image/850/1000/jua4djk0/air-conditioner-new/f/r/q/jw-q18wuza-1-5-window-lg-fixed-speed-original-imaffg2mbwy3eysb.jpeg?q=20",
+      "description": "Smart window AC with advanced features for convenient and efficient cooling.",
+      "warranty": { "duration": 1, "description": "One-year comprehensive warranty" }
+    },
+    {
+      "category": "AC",
+      "name": "Blue Star 1.5 Ton 3 Star Split AC",
+      "brand": "Blue Star",
+      "model": "IC318QATU",
+      "price": 32990.00,
+      "specifications": ["1.5 Ton capacity", "3-star energy rating", "Precision cooling technology"],
+      "image": "https://m.media-amazon.com/images/I/61sjrFQ9lYL.jpg",
+      "description": "Reliable split AC with precise cooling technology for enhanced comfort.",
+      "warranty": { "duration": 1, "description": "One-year comprehensive warranty" }
+    },
+    {
+      "category": "AC",
+      "name": "Voltas 1.5 Ton 4 Star Split Inverter AC",
+      "brand": "Voltas",
+      "model": "185V JZJ",
+      "price": 36990.00,
+      "specifications": ["1.5 Ton capacity", "4-star energy rating", "Inverter technology"],
+      "image": "https://m.media-amazon.com/images/I/51f0BkrwQPL.jpg",
+      "description": "Powerful and energy-efficient split inverter AC for reliable cooling performance.",
+      "warranty": { "duration": 1, "description": "One-year comprehensive warranty" }
+    },
+    {
+      "category": "AC",
+      "name": "Samsung 1.5 Ton 3 Star Split Inverter AC",
+      "brand": "Samsung",
+      "model": "AR18AYLYATBNNA",
+      "price": 39999.00,
+      "specifications": ["1.5 Ton capacity", "3-star energy rating", "Digital inverter technology"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/OB/IQ/RV/130103796/samsung-split-inverter-ac.jpg",
+      "description": "Digital inverter AC with efficient cooling and durable performance.",
+      "warranty": { "duration": 1, "description": "One-year comprehensive warranty" }
+    }
+  ]
+  

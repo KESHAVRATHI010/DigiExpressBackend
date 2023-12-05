@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Printers",
+      "name": "HP LaserJet Pro M404dn",
+      "brand": "HP",
+      "model": "LaserJet Pro M404dn",
+      "price": 249.99,
+      "specifications": ["Monochrome laser printing", "Duplex printing", "Fast printing speed"],
+      "image": "https://5.imimg.com/data5/UC/CR/TF/SELLER-97029568/hp-m404-printer-1.jpg",
+      "description": "High-performance monochrome laser printer for efficient office printing.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Printers",
+      "name": "Epson EcoTank ET-4760",
+      "brand": "Epson",
+      "model": "EcoTank ET-4760",
+      "price": 499.99,
+      "specifications": ["Supertank technology", "Wireless printing", "Four-in-one functionality"],
+      "image": "https://mediaserver.goepson.com/ImConvServlet/imconv/4b6b27f75ff852a695b24cab367c0e5f9877bf2a/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=et-4760-bk_hero-paper_690x460",
+      "description": "Inkjet printer with a large ink tank for cost-effective and high-volume printing.",
+      "warranty": { "duration": 2, "description": "Two-year warranty included" }
+    },
+    {
+      "category": "Printers",
+      "name": "Canon PIXMA TS8320",
+      "brand": "Canon",
+      "model": "PIXMA TS8320",
+      "price": 149.99,
+      "specifications": ["Wireless all-in-one printer", "Color printing", "Touchscreen control"],
+      "image": "https://m.media-amazon.com/images/I/311XQvS3UaL.jpg",
+      "description": "Versatile all-in-one printer with wireless capabilities and vibrant color printing.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    },
+    {
+      "category": "Printers",
+      "name": "Brother HL-L2380DW",
+      "brand": "Brother",
+      "model": "HL-L2380DW",
+      "price": 199.99,
+      "specifications": ["Monochrome laser printer", "Wireless printing", "Duplex printing"],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8161/8161037_sa.jpg",
+      "description": "Compact monochrome laser printer with wireless connectivity and duplex printing.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Printers",
+      "name": "Dell E514dw",
+      "brand": "Dell",
+      "model": "E514dw",
+      "price": 179.99,
+      "specifications": ["Monochrome multifunction printer", "Wireless printing", "Automatic document feeder"],
+      "image": "https://i.pcmag.com/imagery/reviews/0216A4ap9v5iu6GpK9pKGNS-4.fit_lim.size_1050x591.v1569473826.jpg",
+      "description": "Multifunction monochrome printer with wireless capabilities and convenient ADF.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    }
+  ]
+  

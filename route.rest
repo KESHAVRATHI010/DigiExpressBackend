@@ -9,21 +9,21 @@ POST https://digi-express-homepage-api.onrender.com/product
 Content-Type: application/json
 
 {
-    "category": "laptop",
-        "name": "Legion 7",
-        "brand": "Lenovo",
-        "model": "Legion 7i",
-        "price": 1799.99,
+        "category": "laptop",
+        "name": "MacBook Pro",
+        "brand": "Apple",
+        "model": "MacBook Pro 16-inch",
+        "price": 2399.99,
         "specifications": [
-            "15.6-inch 240Hz display",
+            "16-inch Retina display",
             "Intel Core i9",
             "32GB RAM",
-            "1TB NVMe SSD"
+            "1TB SSD"
         ],
-        "image": "lenovo_legion_7.jpg",
-        "description": "High-performance gaming laptop with advanced features.",
+        "image": "macbook_pro_16.jpg",
+        "description": "High-performance laptop for creative professionals.",
         "warranty": {
-            "duration": 2,
-            "description": "Premium Care warranty available."
+            "duration": 1,
+            "description": "AppleCare protection plan available."
         }
-}
+    }

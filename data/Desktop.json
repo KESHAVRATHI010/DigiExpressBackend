@@ -1,0 +1,113 @@
+[
+    {
+      "category": "Desktops",
+      "name": "Apple iMac 24-inch (2021)",
+      "brand": "Apple",
+      "model": "iMac 24",
+      "price": 1299.99,
+      "specifications": ["M1 chip", "4.5K Retina display", "Colorful design"],
+      "image": "https://images.news18.com/ibnlive/uploads/2021/07/1626020540_apple-imac-24-main.jpg",
+      "description": "Powerful all-in-one desktop with a sleek design and impressive performance.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "Dell XPS 8940",
+      "brand": "Dell",
+      "model": "XPS 8940",
+      "price": 899.99,
+      "specifications": ["10th Gen Intel Core i5", "NVIDIA GeForce GTX 1660 Ti", "DDR4 RAM"],
+      "image": "https://preview.redd.it/i-turned-a-small-form-dell-xps-8940-into-a-cool-gaming-v0-kb3lh6tlirib1.jpg?width=474&format=pjpg&auto=webp&s=8a658454bb56adb533d983e0abede8fc95ecfbdb",
+      "description": "Versatile desktop with powerful components for both work and play.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "HP Pavilion Desktop",
+      "brand": "HP",
+      "model": "Pavilion",
+      "price": 649.99,
+      "specifications": ["AMD Ryzen 5", "Integrated AMD Radeon Graphics", "Dual storage"],
+      "image": "https://5.imimg.com/data5/JG/VQ/HN/SELLER-97718215/hp-slimline-desktop-cpu-500x500.jpg",
+      "description": "Reliable desktop for everyday computing with a stylish and compact design.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "CyberPowerPC Gamer Xtreme VR Gaming PC",
+      "brand": "CyberPowerPC",
+      "model": "Gamer Xtreme VR",
+      "price": 1099.99,
+      "specifications": ["Intel i5-11400F", "NVIDIA GeForce GTX 1660", "RGB case lighting"],
+      "image": "https://m.media-amazon.com/images/I/71Lczneb0VL.jpg",
+      "description": "Gaming desktop with high-performance components for an immersive gaming experience.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "Acer Aspire TC-895-UA92 Desktop",
+      "brand": "Acer",
+      "model": "Aspire TC-895-UA92",
+      "price": 529.99,
+      "specifications": ["Intel Core i5-10400", "12GB DDR4", "512GB SSD"],
+      "image": "https://m.media-amazon.com/images/I/41cjfqb+j0L.jpg",
+      "description": "Affordable desktop with a good balance of performance and storage capacity.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "Lenovo IdeaCentre 5 Desktop",
+      "brand": "Lenovo",
+      "model": "IdeaCentre 5",
+      "price": 649.99,
+      "specifications": ["AMD Ryzen 7 4700G", "AMD Radeon Graphics", "8GB DDR4"],
+      "image": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8NTc4Njl8aW1hZ2UvcG5nfGg5Ny9oY2IvMTA5MzUyMzk2MzkwNzAucG5nfGQwOWVhYmQ1NGE0ZGQzNDU5NjJiZDhkNzg5YjljOTQyMWYyMDQyMmJhMzMyYThhOTkzYmI0ZDJmM2FjMzFhYTA/lenovo-desktops-ideacentre-500series-5-hero.png",
+      "description": "Sleek and powerful desktop for productivity and entertainment tasks.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "SkyTech Blaze II Gaming PC",
+      "brand": "SkyTech",
+      "model": "Blaze II",
+      "price": 999.99,
+      "specifications": ["AMD Ryzen 5 2600", "NVIDIA GTX 1660", "16GB DDR4 RAM"],
+      "image": "https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjMzZmZkMDQ2NzAxMGU1YTE3MDQxNmQ4LXNreXRlY2gtYmxhemUtaWktZ2FtaW5nLXBjLWRlc2t0b3AuanBn.jpg",
+      "description": "Gaming desktop with a focus on performance and aesthetics for gaming enthusiasts.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "Alienware Aurora R10 Gaming Desktop",
+      "brand": "Alienware",
+      "model": "Aurora R10",
+      "price": 1599.99,
+      "specifications": ["AMD Ryzen 9 5900X", "NVIDIA GeForce RTX 3080", "32GB DDR4 RAM"],
+      "image": "https://m.media-amazon.com/images/I/71zqOdsYAzL.jpg",
+      "description": "High-end gaming desktop with top-tier components for exceptional gaming performance.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "MSI MPG Trident AS 10th Gen Gaming Desktop",
+      "brand": "MSI",
+      "model": "MPG Trident AS",
+      "price": 1399.99,
+      "specifications": ["Intel Core i7-10700", "NVIDIA GeForce RTX 2060", "512GB SSD"],
+      "image": "https://storage-asset.msi.com/global/picture/image/feature/desktop/MPG-Trident-AS/glass-item2.png",
+      "description": "Compact gaming desktop with powerful hardware and a unique design.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Desktops",
+      "name": "Dell Inspiron 3880 Desktop",
+      "brand": "Dell",
+      "model": "Inspiron 3880",
+      "price": 499.99,
+      "specifications": ["Intel Core i3-10100", "8GB DDR4 RAM", "1TB HDD"],
+      "image": "https://m.media-amazon.com/images/I/71MasJiowsL.jpg",
+      "description": "Entry-level desktop with reliable performance for everyday computing needs.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

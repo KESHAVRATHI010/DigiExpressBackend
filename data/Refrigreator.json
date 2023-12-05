@@ -1,0 +1,113 @@
+[
+    {
+      "category": "Refrigerator",
+      "name": "Samsung French Door Refrigerator",
+      "brand": "Samsung",
+      "model": "RF28R7201SR",
+      "price": 1999.99,
+      "specifications": ["28 cu. ft. capacity", "Twin Cooling Plus", "Water and ice dispenser"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/3/NY/ZA/CJ/124397253/r8ba6f6fe1c3ead451ee651fc806e4935-500x500.jpg",
+      "description": "High-capacity French door refrigerator with advanced cooling technology and water/ice dispenser.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "LG InstaView Door-in-Door Refrigerator",
+      "brand": "LG",
+      "model": "LFXS26596S",
+      "price": 2799.99,
+      "specifications": ["26 cu. ft. capacity", "InstaView Door-in-Door", "SmartThinQ technology"],
+      "image": "https://www.lgnewsroom.com/wp-content/uploads/2017/01/LG-Smart-Instaview-Refrigerator-01-541x1024.jpg",
+      "description": "Smart refrigerator with InstaView Door-in-Door feature and smart technology for convenient access.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "Whirlpool Side-by-Side Refrigerator",
+      "brand": "Whirlpool",
+      "model": "WRS315SNHM",
+      "price": 1099.99,
+      "specifications": ["24.6 cu. ft. capacity", "Adaptive defrost", "LED interior lighting"],
+      "image": "https://m.media-amazon.com/images/I/81wHUcGexYL.jpg",
+      "description": "Side-by-side refrigerator with adaptive defrost and LED lighting for efficient and bright storage.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "GE Top-Freezer Refrigerator",
+      "brand": "GE Refrigerator",
+      "model": "GTE18GTNRWW",
+      "price": 749.99,
+      "specifications": ["17.5 cu. ft. capacity", "Adjustable glass shelves", "Frost-free freezer"],
+      "image": "https://images.thdstatic.com/productImages/ff68fd2f-53ee-47fa-9619-0d5240df613d/svn/white-ge-top-freezer-refrigerators-gts19kgnrww-64_600.jpg",
+      "description": "Top-freezer refrigerator with adjustable shelves and frost-free freezer for convenient storage.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "KitchenAid Counter-Depth Refrigerator",
+      "brand": "KitchenAid",
+      "model": "KRSC703HPS",
+      "price": 2999.99,
+      "specifications": ["22.6 cu. ft. capacity", "Preserva Food Care System", "PrintShield finish"],
+      "image": "https://m.media-amazon.com/images/I/51Ao1o4pCWL.jpg",
+      "description": "Counter-depth refrigerator with advanced food preservation system and fingerprint-resistant finish.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "Maytag Bottom-Freezer Refrigerator",
+      "brand": "Maytag",
+      "model": "MBF2258FEZ",
+      "price": 1499.99,
+      "specifications": ["21.7 cu. ft. capacity", "PowerCold feature", "BrightSeries LED lighting"],
+      "image": "https://kitchenaid-h.assetsadobe.com/is/image/content/dam/business-unit/maytag/en-us/marketing-content/site-assets/page-content/refer-sclp/images/bottom-freezer.png?fit=constrain&fmt=png-alpha&hei=2200&resMode=sharp2&utc=2020-04-30T21:30:10Z&wid=2200",
+      "description": "Bottom-freezer refrigerator with PowerCold feature and bright LED lighting for optimal freshness.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "Frigidaire French Door Refrigerator",
+      "brand": "Frigidaire",
+      "model": "FFHB2750TS",
+      "price": 1599.99,
+      "specifications": ["26.8 cu. ft. capacity", "EvenTemp cooling system", "Adjustable interior storage"],
+      "image": "https://images.thdstatic.com/productImages/64a3487e-a247-4e08-b43b-101b41b7f9d5/svn/brushed-steel-frigidaire-french-door-refrigerators-frfg1723av-4f_600.jpg",
+      "description": "French door refrigerator with EvenTemp cooling system and adjustable storage for flexible organization.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "Bosch Counter-Depth Refrigerator",
+      "brand": "Bosch",
+      "model": "B36CT80SNS",
+      "price": 3199.99,
+      "specifications": ["21 cu. ft. capacity", "VitaFreshPro technology", "Adjustable FlexBar"],
+      "image": "https://images.thdstatic.com/productImages/eb76bcdb-5eb9-4e77-a233-16310c35f1fa/svn/stainless-steel-bosch-french-door-refrigerators-b36ct80sns-64_1000.jpg",
+      "description": "Counter-depth refrigerator with VitaFreshPro technology and flexible storage options.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "Sub-Zero Built-In Refrigerator",
+      "brand": "Sub-Zero",
+      "model": "BI-36U/S/TH",
+      "price": 8999.99,
+      "specifications": ["20.5 cu. ft. capacity", "Dual refrigeration", "Air purification system"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-5xuWElR3gK-7Z-bgYqj_0fq3DELVX0u0t5B_cdKHz8Ep4Zd71B64GwsAXSUIfxDcPo&usqp=CAU",
+      "description": "Luxury built-in refrigerator with dual refrigeration and an air purification system for premium food preservation.",
+      "warranty": { "duration": 5, "description": "Five-year limited warranty" }
+    },
+    {
+      "category": "Refrigerator",
+      "name": "Haier Compact Refrigerator",
+      "brand": "Haier",
+      "model": "HC33SW20RB",
+      "price": 129.99,
+      "specifications": ["3.3 cu. ft. capacity", "Adjustable thermostat", "Removable glass shelves"],
+      "image": "https://m.media-amazon.com/images/I/61P1cyGp5yS.jpg",
+      "description": "Compact refrigerator with adjustable thermostat and removable glass shelves, ideal for smaller spaces.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

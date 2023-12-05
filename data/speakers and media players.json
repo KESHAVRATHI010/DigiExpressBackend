@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Speaker and media players",
+      "name": "Sonos One Smart Speaker",
+      "brand": "Sonos",
+      "model": "One",
+      "price": 199.99,
+      "specifications": ["Voice control with Amazon Alexa", "Multi-room audio", "Trueplay tuning"],
+      "image": "https://5.imimg.com/data5/ECOM/Default/2022/8/OB/YN/HL/147453214/sonosonesmartspeaker-1-500x500.jpg",
+      "description": "Smart speaker with rich sound quality and seamless integration into smart home systems.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Speaker and media players",
+      "name": "Bose SoundLink Revolve+ Bluetooth Speaker",
+      "brand": "Bose",
+      "model": "SoundLink Revolve+",
+      "price": 299.99,
+      "specifications": ["360-degree sound", "Portable design", "Water-resistant"],
+      "image": "https://m.media-amazon.com/images/I/71eJQYXTVxL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Portable Bluetooth speaker with immersive 360-degree sound and durable build.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Speaker and media players",
+      "name": "Apple HomePod Mini Smart Speaker",
+      "brand": "Apple",
+      "model": "HomePod Mini",
+      "price": 99.99,
+      "specifications": ["Siri voice assistant", "Smart home control", "Adaptive audio"],
+      "image": "https://www.imagineonline.store/cdn/shop/products/MY5G2HN-A_823x.png?v=1634188921",
+      "description": "Compact smart speaker with impressive sound quality and intelligent features.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Speaker and media players",
+      "name": "Sony SRS-X9 High-Resolution Bluetooth Speaker",
+      "brand": "Sony",
+      "model": "SRS-X9",
+      "price": 449.99,
+      "specifications": ["High-resolution audio support", "Built-in Wi-Fi", "NFC technology"],
+      "image": "https://m.media-amazon.com/images/I/91uUG-N-R-L._AC_UF350,350_QL80_.jpg",
+      "description": "Premium Bluetooth speaker with high-resolution audio capabilities and wireless connectivity.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Speaker and media players",
+      "name": "Roku Ultra 4K HDR Streaming Media Player",
+      "brand": "Roku",
+      "model": "Ultra",
+      "price": 99.99,
+      "specifications": ["4K HDR streaming", "Enhanced voice remote", "Quad-core processor"],
+      "image": "https://i.ebayimg.com/images/g/xXsAAOSw8JhjBmCw/s-l1200.jpg",
+      "description": "Streaming media player with 4K HDR support and a variety of entertainment options.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

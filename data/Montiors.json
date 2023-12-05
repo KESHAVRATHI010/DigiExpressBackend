@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Monitors",
+      "name": "Dell UltraSharp U2719D",
+      "brand": "Dell",
+      "model": "UltraSharp U2719D",
+      "price": 349.99,
+      "specifications": ["27-inch QHD display", "InfinityEdge design", "IPS panel"],
+      "image": "https://m.media-amazon.com/images/I/81-3WuJ2wyL._AC_UF1000,1000_QL80_.jpg",
+      "description": "High-quality monitor with a QHD display, slim bezels, and accurate color reproduction.",
+      "warranty": { "duration": 3, "description": "Three-year advanced exchange service" }
+    },
+    {
+      "category": "Monitors",
+      "name": "LG 34WK95U-W UltraWide Monitor",
+      "brand": "LG",
+      "model": "34WK95U-W",
+      "price": 1399.99,
+      "specifications": ["34-inch UltraWide 5K display", "Nano IPS technology", "Thunderbolt 3"],
+      "image": "https://www.tanotis.com/cdn/shop/products/1558016480_1382968_1024x.jpg?v=1663099928",
+      "description": "UltraWide monitor with 5K resolution, Nano IPS, and Thunderbolt 3 connectivity.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Monitors",
+      "name": "ASUS ROG Swift PG279Q",
+      "brand": "ASUS",
+      "model": "ROG Swift PG279Q",
+      "price": 699.99,
+      "specifications": ["27-inch WQHD gaming monitor", "IPS panel", "NVIDIA G-SYNC technology"],
+      "image": "https://dlcdnwebimgs.asus.com/gain/72C16A36-4EE3-4AC4-A58A-35F6B8A2FB6F/w717/h525",
+      "description": "Gaming monitor with high refresh rate, WQHD resolution, and G-SYNC technology.",
+      "warranty": { "duration": 3, "description": "Three-year warranty included" }
+    },
+    {
+      "category": "Monitors",
+      "name": "Acer R240HY IPS Monitor",
+      "brand": "Acer",
+      "model": "R240HY",
+      "price": 129.99,
+      "specifications": ["23.8-inch Full HD display", "IPS panel", "Zero Frame design"],
+      "image": "https://m.media-amazon.com/images/I/91u-JxjgBoL.jpg",
+      "description": "Affordable IPS monitor with Full HD resolution and a sleek Zero Frame design.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Monitors",
+      "name": "BenQ EX3501R Curved Gaming Monitor",
+      "brand": "BenQ",
+      "model": "EX3501R",
+      "price": 699.99,
+      "specifications": ["35-inch UltraWide QHD curved display", "HDR support", "AMD FreeSync"],
+      "image": "https://m.media-amazon.com/images/I/618NMNrbGyL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Curved gaming monitor with UltraWide QHD resolution, HDR, and AMD FreeSync technology.",
+      "warranty": { "duration": 3, "description": "Three-year warranty included" }
+    }
+  ]
+  

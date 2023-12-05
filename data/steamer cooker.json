@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Steamer and cooker",
+      "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+      "brand": "Instant Pot",
+      "model": "Duo",
+      "price": 89.99,
+      "specifications": ["7-in-1 multi-use cooker", "6-quart capacity", "14 built-in smart programs"],
+      "image": "https://m.media-amazon.com/images/I/71WtwEvYDOS._AC_UF894,1000_QL80_.jpg",
+      "description": "Electric pressure cooker with versatile cooking functions for quick and easy meals.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Steamer and cooker",
+      "name": "Cuisinart STM-1000 CookFresh Digital Glass Steamer",
+      "brand": "Cuisinart",
+      "model": "STM-1000",
+      "price": 149.99,
+      "specifications": ["5-liter glass steaming pot", "LCD control panel", "One-touch controls"],
+      "image": "https://m.media-amazon.com/images/I/51W6IqV+Y6L._AC_UF894,1000_QL80_.jpg",
+      "description": "Digital glass steamer for healthy and efficient cooking with various food presets.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Steamer and cooker",
+      "name": "Ninja Foodi 9-in-1 Deluxe XL Pressure Cooker and Air Fryer",
+      "brand": "Ninja",
+      "model": "Foodi Deluxe XL",
+      "price": 249.99,
+      "specifications": ["9-in-1 cooker and air fryer", "8-quart capacity", "TenderCrisp technology"],
+      "image": "https://qvc.scene7.com/is/image/QVC/k/95/k50295.002?$aempdzoom$",
+      "description": "Versatile pressure cooker with air frying capability for crispy and tender results.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Steamer and cooker",
+      "name": "Hamilton Beach Digital Food Steamer",
+      "brand": "Hamilton Beach",
+      "model": "Digital Steamer",
+      "price": 39.99,
+      "specifications": ["Digital touchpad controls", "Two-tier steaming", "5.5-quart capacity"],
+      "image": "https://m.media-amazon.com/images/I/814k-KKrZyL._AC_UF894,1000_QL80_.jpg",
+      "description": "Digital food steamer for healthy cooking with precise control over steaming levels.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Steamer and cooker",
+      "name": "Aroma Housewares Rice Cooker and Food Steamer",
+      "brand": "Aroma Housewares",
+      "model": "Rice Cooker and Food Steamer",
+      "price": 29.99,
+      "specifications": ["8-cup cooked rice capacity", "One-touch operation", "Steam tray included"],
+      "image": "https://images-cdn.ubuy.co.in/64c0886ea362592e5504bf2e-aroma-housewares-arc-914sbd-digital.jpg",
+      "description": "Compact rice cooker and food steamer for easy and efficient meal preparation.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

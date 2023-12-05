@@ -1,0 +1,102 @@
+[
+    {
+      "category": "Tv",
+      "name": "LG OLED CX Series 4K Smart TV",
+      "brand": "LG",
+      "model": "OLED CX",
+      "price": 1799.99,
+      "specifications": ["4K OLED display", "Dolby Vision IQ and Dolby Atmos", "α9 Gen 3 AI processor"],
+      "image": "https://rukminim2.flixcart.com/image/850/1000/kg9qbgw0/television/h/f/d/lg-oled65cxpta-original-imafwjxjbabvm2je.jpeg?q=90",
+      "description": "High-quality 4K OLED TV with AI-enhanced picture and sound for an immersive experience.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "Samsung QLED Q90T Series 4K Smart TV",
+      "brand": "Samsung",
+      "model": "Q90T",
+      "price": 2499.99,
+      "specifications": ["4K QLED display", "Quantum HDR 16X", "Object Tracking Sound+"],
+      "image": "https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/qled-tvs/pdp/q90t-series/gallery/02_Q90T_L-Perspective1_Black-GalleryCuts.jpg?$product-details-jpg$",
+      "description": "Premium QLED TV with exceptional picture quality and immersive audio.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "Sony Bravia A8H OLED 4K Android TV",
+      "brand": "Sony",
+      "model": "A8H",
+      "price": 2299.99,
+      "specifications": ["4K OLED display", "Acoustic Surface Audio", "Android TV with Google Assistant"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/RR/BH/SG/123224342/a8h-oled-4k-ultra-hdrsmart-tv-500x500.PNG",
+      "description": "OLED TV with unique audio technology and a smart Android TV platform.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "TCL 6-Series 4K Roku Smart TV",
+      "brand": "TCL",
+      "model": "6-Series",
+      "price": 799.99,
+      "specifications": ["4K QLED display", "Dolby Vision HDR", "Roku TV platform"],
+      "image": "https://cdn.mos.cms.futurecdn.net/ZG8YvLQETmZx9FSydYZ5nG.jpg",
+      "description": "Affordable QLED TV with impressive picture quality and built-in Roku for streaming.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "Vizio P-Series Quantum X 4K HDR Smart TV",
+      "brand": "Vizio",
+      "model": "P-Series Quantum X",
+      "price": 1799.99,
+      "specifications": ["4K Quantum Dot display", "UltraBright 3000", "Dolby Vision HDR"],
+      "image": "https://m.media-amazon.com/images/I/71tXRUX-7zL.jpg",
+      "description": "Quantum Dot TV with exceptional brightness and HDR for a cinematic viewing experience.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "Hisense H8G Quantum Series 4K Android TV",
+      "brand": "Hisense",
+      "model": "H8G",
+      "price": 699.99,
+      "specifications": ["4K ULED display", "Dolby Vision HDR", "Android TV with Voice Remote"],
+      "image": "https://m.media-amazon.com/images/I/61nk8EVjcCL.jpg",
+      "description": "Feature-rich ULED TV with vibrant colors and a user-friendly Android TV interface.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "Panasonic HZ2000 4K OLED TV",
+      "brand": "Panasonic",
+      "model": "HZ2000",
+      "price": 3299.99,
+      "specifications": ["Professional Edition 4K OLED display", "Dolby Vision IQ and Dolby Atmos", "HCX Pro Intelligent Processor"],
+      "image": "https://www.oled-info.com/sites/oled/files/oled_company_profile/oled_company_profilePanasonic-HZ2000_0-img_assist-400x270.jpg",
+      "description": "High-end OLED TV with professional-grade display and audio technologies.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "RCA Roku TV 4K UHD Smart TV",
+      "brand": "RCA",
+      "model": "Roku TV",
+      "price": 549.99,
+      "specifications": ["4K UHD display", "Roku TV platform", "HDR support"],
+      "image": "https://m.media-amazon.com/images/I/71A-4NVgVNL.jpg",
+      "description": "Affordable 4K UHD TV with the convenience of the Roku TV streaming platform.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Tv",
+      "name": "Philips 9000 Series 4K Android TV",
+      "brand": "Philips",
+      "model": "9000 Series",
+      "price": 1499.99,
+      "specifications": ["4K UHD display", "Ambilight technology", "Android TV with Google Assistant"],
+      "image": "https://cdn.mos.cms.futurecdn.net/XzqKMzSukWmYezp3Z333oF.jpg",
+      "description": "Premium 4K UHD TV with Ambilight technology for an immersive viewing experience.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    }
+  ]
+  

@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Projectors",
+      "name": "Epson Home Cinema 5050UB",
+      "brand": "Epson",
+      "model": "Home Cinema 5050UB",
+      "price": 2799.99,
+      "specifications": ["4K PRO-UHD resolution", "HDR support", "2500 lumens brightness"],
+      "image": "https://mediaserver.goepson.com/ImConvServlet/imconv/bc98bb92ae9f1738065a9fb1818a77d14bb47a9f/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=hc5050ub_hero-left_v2_690x460",
+      "description": "High-performance 4K PRO-UHD projector with advanced HDR support for home entertainment.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Projectors",
+      "name": "BenQ HT3550 4K Home Theater Projector",
+      "brand": "BenQ",
+      "model": "HT3550",
+      "price": 1499.99,
+      "specifications": ["True 4K UHD resolution", "CinematicColor technology", "Dynamic Iris"],
+      "image": "https://image.benq.com/is/image/benqco/04-w2700-right30-2?$ResponsivePreset$",
+      "description": "4K UHD home theater projector with advanced color technology and dynamic iris for a cinematic experience.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Projectors",
+      "name": "Optoma HD146X High-Performance Projector",
+      "brand": "Optoma",
+      "model": "HD146X",
+      "price": 549.99,
+      "specifications": ["1080p resolution", "3600 lumens brightness", "Dynamic Black technology"],
+      "image": "https://images-cdn.ubuy.co.in/64d6272d27571928303d07b4-optoma-hd146x-1080p-home-theater-and.jpg",
+      "description": "High-performance 1080p projector with dynamic black technology for vibrant and detailed images.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Projectors",
+      "name": "ViewSonic PX747-4K 4K Projector",
+      "brand": "ViewSonic",
+      "model": "PX747-4K",
+      "price": 999.99,
+      "specifications": ["4K UHD resolution", "HDR content support", "Dual HDMI inputs"],
+      "image": "https://m.media-amazon.com/images/I/510EuWujflL._AC_UF1000,1000_QL80_.jpg",
+      "description": "4K UHD projector with HDR support and dual HDMI inputs for immersive home entertainment.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Projectors",
+      "name": "Sony VPL-VW295ES 4K HDR Home Theater Projector",
+      "brand": "Sony",
+      "model": "VPL-VW295ES",
+      "price": 4999.99,
+      "specifications": ["Native 4K resolution", "HDR compatibility", "1500 lumens brightness"],
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/5/OH/HR/JO/71352813/sony-vpl-vw295es-projector.png",
+      "description": "Premium 4K HDR home theater projector with native 4K resolution and high brightness for exceptional visuals.",
+      "warranty": { "duration": 5, "description": "Five-year limited warranty" }
+    }
+  ]
+  

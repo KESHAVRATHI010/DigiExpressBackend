@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Fans",
+      "name": "Dyson Vortex Bladeless Fan",
+      "brand": "Dyson",
+      "model": "Vortex",
+      "price": 349.99,
+      "specifications": ["Bladeless design", "Air multiplier technology", "Remote control"],
+      "image": "https://hotsnap.co.uk/cdn/shop/products/bladeless-cooling-fan_2000x.jpg?v=1683730138",
+      "description": "Bladeless fan with air multiplier technology for smooth and powerful airflow. Includes a remote control for convenient operation.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Fans",
+      "name": "Honeywell QuietSet Tower Fan",
+      "brand": "Honeywell",
+      "model": "QuietSet",
+      "price": 59.99,
+      "specifications": ["8-speed settings", "Oscillation", "Quiet cooling"],
+      "image": "https://m.media-amazon.com/images/I/61zrUwATwjL.jpg",
+      "description": "Tower fan with 8-speed settings, oscillation feature, and quiet cooling for enhanced comfort. Suitable for home or office use.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    },
+    {
+      "category": "Fans",
+      "name": "Lasko Wind Curve Tower Fan",
+      "brand": "Lasko",
+      "model": "Wind Curve",
+      "price": 49.99,
+      "specifications": ["3-speed settings", "Fresh air ionizer", "Remote control"],
+      "image": "https://m.media-amazon.com/images/I/71xhgYQupkL.jpg",
+      "description": "Tower fan with 3-speed settings, a fresh air ionizer, and remote control for efficient and convenient air circulation.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Fans",
+      "name": "Vornado 660 Whole Room Air Circulator",
+      "brand": "Vornado",
+      "model": "660",
+      "price": 99.99,
+      "specifications": ["Vortex technology", "Multi-directional airflow", "Whisper-quiet operation"],
+      "image": "https://images-cdn.ubuy.co.in/6350b84bb2b3f015161ccf64-vornado-660-ae-large-whole-room-works.jpg",
+      "description": "Air circulator with Vortex technology, multi-directional airflow, and whisper-quiet operation for whole-room comfort.",
+      "warranty": { "duration": 5, "description": "Five-year limited warranty" }
+    },
+    {
+      "category": "Fans",
+      "name": "Rowenta Turbo Silence Stand Fan",
+      "brand": "Rowenta",
+      "model": "Turbo Silence",
+      "price": 89.99,
+      "specifications": ["4-speed settings", "Silent mode", "Adjustable height"],
+      "image": "https://m.media-amazon.com/images/I/81S+bwxzqoL.jpg",
+      "description": "Stand fan with 4-speed settings, silent mode, and adjustable height for personalized and quiet cooling performance.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    }
+  ]
+  

@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Iron",
+      "name": "Rowenta DW5080 Focus",
+      "brand": "Rowenta",
+      "model": "DW5080 Focus",
+      "price": 69.99,
+      "specifications": ["1700 watts", "Stainless steel soleplate", "Precision tip"],
+      "image": "https://m.media-amazon.com/images/I/71DsknAOxBL._AC_UF894,1000_QL80_.jpg",
+      "description": "Powerful steam iron with a precision tip for effective and efficient ironing.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Iron",
+      "name": "BLACK+DECKER Digital Advantage Professional Steam Iron",
+      "brand": "BLACK+DECKER",
+      "model": "Digital Advantage Professional",
+      "price": 39.99,
+      "specifications": ["Digital temperature control", "Stainless steel soleplate", "Auto shutoff"],
+      "image": "https://rukminim1.flixcart.com/image/300/300/jr6o13k0/iron/d/a/y/black-decker-d2030-auto-off-digital-advantage-iron-gray-original-imafdyb9fywe4mvz.jpeg",
+      "description": "Digital steam iron with advanced features for precise control and safety.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Iron",
+      "name": "Shark Ultimate Professional Iron",
+      "brand": "Shark",
+      "model": "Ultimate Professional",
+      "price": 49.99,
+      "specifications": ["1800 watts", "Stainless steel soleplate", "Anti-drip technology"],
+      "image": "https://m.media-amazon.com/images/I/81RU+hCmIyL._AC_UF894,1000_QL80_.jpg",
+      "description": "High-performance iron with anti-drip technology for wrinkle-free clothes.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Iron",
+      "name": "Hamilton Beach Steam Iron with 3-Way Auto Shutoff",
+      "brand": "Hamilton Beach",
+      "model": "Steam Iron",
+      "price": 24.99,
+      "specifications": ["1500 watts", "Retractable cord", "Vertical steam"],
+      "image": "https://m.media-amazon.com/images/I/61CyF5aZ6iL._AC_SS300_.jpg",
+      "description": "Convenient steam iron with a retractable cord and versatile ironing options.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Iron",
+      "name": "Sunbeam Steammaster Steam Iron",
+      "brand": "Sunbeam",
+      "model": "Steammaster",
+      "price": 29.99,
+      "specifications": ["1400 watts", "3-way motion smart auto-off", "Anti-drip system"],
+      "image": "https://m.media-amazon.com/images/I/71s0NoG1nuL.jpg",
+      "description": "Affordable steam iron with a 3-way motion smart auto-off for safety.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

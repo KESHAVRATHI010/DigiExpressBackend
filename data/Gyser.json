@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Gyser",
+      "name": "Rheem Performance Platinum Smart Electric Water Heater",
+      "brand": "Rheem",
+      "model": "Performance Platinum",
+      "price": 899.99,
+      "specifications": ["Smart water heater", "Wi-Fi connectivity", "High-efficiency heating elements"],
+      "image": "https://images.thdstatic.com/productImages/2b16424c-16d7-42fe-b927-a715ae31543d/svn/rheem-heat-pump-water-heaters-xe50t10h45u0-64_600.jpg",
+      "description": "Smart electric water heater with Wi-Fi connectivity and high-efficiency heating elements for energy savings.",
+      "warranty": { "duration": 6, "description": "Six-year limited warranty" }
+    },
+    {
+      "category": "Gyser",
+      "name": "EcoSmart ECO 27 Electric Tankless Water Heater",
+      "brand": "EcoSmart",
+      "model": "ECO 27",
+      "price": 499.99,
+      "specifications": ["Tankless water heater", "Self-modulating technology", "Saves up to 50% on water heating costs"],
+      "image": "https://i5.walmartimages.com/asr/106eed19-4ecb-46df-840d-8fedde667877_1.a7d53b46b416870e285973fa0755bc83.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "description": "Electric tankless water heater with self-modulating technology for on-demand hot water and energy efficiency.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Gyser",
+      "name": "AO Smith Signature Premier Natural Gas Water Heater",
+      "brand": "AO Smith",
+      "model": "Signature Premier",
+      "price": 699.99,
+      "specifications": ["Natural gas water heater", "Advanced electronic control", "Enhanced diagnostics"],
+      "image": "https://i.pinimg.com/736x/71/64/c9/7164c9ebfd9abb460605ae4bc4ff26dc.jpg",
+      "description": "Natural gas water heater with advanced electronic control and enhanced diagnostics for efficient performance.",
+      "warranty": { "duration": 10, "description": "Ten-year limited warranty" }
+    },
+    {
+      "category": "Gyser",
+      "name": "Bosch Tronic 3000 T Electric Mini-Tank Water Heater",
+      "brand": "Bosch",
+      "model": "Tronic 3000 T",
+      "price": 169.99,
+      "specifications": ["Mini-tank water heater", "Fast recovery rate", "Compact design"],
+      "image": "https://manuals.plus/wp-content/uploads/2021/12/image-214.jpg",
+      "description": "Electric mini-tank water heater with a compact design and fast recovery rate for instant hot water in small spaces.",
+      "warranty": { "duration": 6, "description": "Six-year limited warranty" }
+    },
+    {
+      "category": "Gyser",
+      "name": "Rinnai RL Series HE+ Tankless Hot Water Heater",
+      "brand": "Rinnai",
+      "model": "RL Series HE+",
+      "price": 849.99,
+      "specifications": ["Tankless hot water heater", "High-efficiency condensing technology", "Up to 9.4 gallons per minute"],
+      "image": "https://eaglesplumbing.com.au/wp-content/uploads/HWR518P.png",
+      "description": "High-efficiency tankless hot water heater with condensing technology and a high flow rate for continuous hot water.",
+      "warranty": { "duration": 12, "description": "Twelve-year limited warranty" }
+    }
+  ]
+  

@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Vacuum Cleaners",
+      "name": "Dyson V11 Animal",
+      "brand": "Dyson",
+      "model": "V11 Animal",
+      "price": 599.99,
+      "specifications": ["Cordless design", "Powerful suction", "Whole-machine filtration"],
+      "image": "https://images-cdn.ubuy.co.in/653240e8ec672338277a6ee8-dyson-v11-animal-cordless-vacuum.jpg",
+      "description": "High-performance cordless vacuum designed for pet owners with powerful suction.",
+      "warranty": { "duration": 2, "description": "Two-year warranty provided" }
+    },
+    {
+      "category": "Vacuum Cleaners",
+      "name": "Shark Navigator Lift-Away",
+      "brand": "Shark",
+      "model": "NV352",
+      "price": 199.99,
+      "specifications": ["Lift-Away technology", "Anti-Allergen Complete Seal", "Swivel steering"],
+      "image": "https://images-cdn.ubuy.co.in/6353685f85500247ca0df815-shark-navigator-lift-away-bagless.jpg",
+      "description": "Versatile upright vacuum with Lift-Away technology for portable cleaning.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Vacuum Cleaners",
+      "name": "iRobot Roomba i7+",
+      "brand": "iRobot",
+      "model": "Roomba i7+",
+      "price": 799.99,
+      "specifications": ["Smart mapping technology", "Automatic dirt disposal", "Wi-Fi connectivity"],
+      "image": "https://m.media-amazon.com/images/I/41VfO38YEcL.jpg",
+      "description": "Robot vacuum with advanced mapping and self-emptying dustbin for hands-free cleaning.",
+      "warranty": { "duration": 2, "description": "Two-year warranty included" }
+    },
+    {
+      "category": "Vacuum Cleaners",
+      "name": "Bissell CrossWave Pet Pro",
+      "brand": "Bissell",
+      "model": "CrossWave Pet Pro",
+      "price": 299.99,
+      "specifications": ["Vacuum and wash simultaneously", "Multi-surface cleaning", "Tangle-free brush roll"],
+      "image": "https://m.media-amazon.com/images/I/71utLlkYgAL._AC_UF894,1000_QL80_.jpg",
+      "description": "Multi-surface cleaner designed for homes with pets, vacuums and washes at the same time.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Vacuum Cleaners",
+      "name": "Miele Complete C3 Cat & Dog",
+      "brand": "Miele",
+      "model": "Complete C3 Cat & Dog",
+      "price": 899.99,
+      "specifications": ["HEPA AirClean filter", "Powerful Vortex motor", "Odor-absorbing Active AirClean filter"],
+      "image": "https://www.godfreys.com.au/media/catalog/product/image/86052154/miele-eco-complete-c3-cat-dog-bagged-vacuum-cleaner-11110227.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=670&canvas=670:600",
+      "description": "Canister vacuum designed for homes with pets, featuring advanced filtration and powerful suction.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    }
+  ]
+  

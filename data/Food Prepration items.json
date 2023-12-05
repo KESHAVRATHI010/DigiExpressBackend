@@ -1,0 +1,47 @@
+[
+    {
+      "category": "Food prepration items",
+      "name": "Vitamix 5200 Blender",
+      "brand": "Vitamix",
+      "model": "5200",
+      "price": 449.99,
+      "specifications": ["Variable speed control", "High-performance motor", "Self-cleaning"],
+      "image": "https://m.media-amazon.com/images/I/51Irf45adqL.jpg",
+      "description": "Powerful blender with variable speed control, high-performance motor, and self-cleaning capability for smooth food preparation.",
+      "warranty": { "duration": 7, "description": "Seven-year limited warranty" }
+    },
+    {
+      "category": "Food prepration items",
+      "name": "KitchenAid Stand Mixer",
+      "brand": "KitchenAid",
+      "model": "Artisan",
+      "price": 349.99,
+      "specifications": ["Tilt-head design", "10-speed settings", "Versatile attachments"],
+      "image": "https://stecindia.co.in/wp-content/uploads/2022/04/KitchenAid-Stand-Mixer-6.9L-Empire-Red-5KSM7591XDER_1.jpg",
+      "description": "Versatile stand mixer with a tilt-head design, 10-speed settings, and various attachments for efficient food preparation and baking.",
+      "warranty": { "duration": 5, "description": "Five-year limited warranty" }
+    },
+    {
+      "category": "Food prepration items",
+      "name": "Cuisinart Food Processor",
+      "brand": "Cuisinart",
+      "model": "DLC-8SBCY",
+      "price": 129.99,
+      "specifications": ["8-cup capacity", "Powerful motor", "Reversible shredding and slicing discs"],
+      "image": "https://m.media-amazon.com/images/I/71LH981WnrL.jpg",
+      "description": "Food processor with an 8-cup capacity, powerful motor, and reversible shredding and slicing discs for efficient chopping and slicing.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Food prepration items",
+      "name": "Hamilton Beach Electric Kettle",
+      "brand": "Hamilton Beach",
+      "model": "40880",
+      "price": 29.99,
+      "specifications": ["1.7-liter capacity", "Auto shut-off", "Cord-free serving"],
+      "image": "https://www.compareprix.in/images/product/large/hamilton-beach-40989e-1-7-litre-electric-kettle-large.jpg",
+      "description": "Electric kettle with a 1.7-liter capacity, auto shut-off feature, and cord-free serving for quick and convenient water boiling.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    }
+  ]
+  

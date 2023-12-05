@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Stove and cooktop",
+      "name": "Samsung Gas Range",
+      "brand": "Samsung",
+      "model": "NX58H5600SS",
+      "price": 899.99,
+      "specifications": ["5.8 cu. ft. oven capacity", "Five-burner cooktop", "Convection baking"],
+      "image": "https://image-us.samsung.com/SamsungUS/home/home-appliances/ranges/gas-ranges/nx60a6711ss-aa/gallery/NX60A6711SS_01_Silver_SCOM.jpg?$product-details-jpg$",
+      "description": "Stainless steel gas range with a spacious oven and versatile five-burner cooktop.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Stove and cooktop",
+      "name": "Whirlpool Electric Cooktop",
+      "brand": "Whirlpool",
+      "model": "WCE55US0HS",
+      "price": 699.99,
+      "specifications": ["Five radiant elements", "FlexHeat dual radiant element", "Touch controls"],
+      "image": "https://i.pinimg.com/474x/80/52/57/805257c68164f2b773f1c41ff4a1a633.jpg",
+      "description": "Smooth surface electric cooktop with advanced features and easy-to-use touch controls.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Stove and cooktop",
+      "name": "GE Profile Induction Cooktop",
+      "brand": "GE",
+      "model": "PHP9036SJSS",
+      "price": 1499.99,
+      "specifications": ["Induction technology", "SyncBurners", "Touch-sensitive controls"],
+      "image": "https://images.thdstatic.com/productImages/33ceb60e-8a7a-42f7-963d-b109ba076a41/svn/black-ge-profile-induction-cooktops-php7030dtbb-64_600.jpg",
+      "description": "High-end induction cooktop with synchronized burners and precise touch-sensitive controls.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    },
+    {
+      "category": "Stove and cooktop",
+      "name": "KitchenAid Dual-Fuel Range",
+      "brand": "KitchenAid",
+      "model": "KDRS467VSS",
+      "price": 2999.99,
+      "specifications": ["Dual-fuel capability", "Convection oven", "Six burners"],
+      "image": "https://www.pcrichard.com/dw/image/v2/BFXM_PRD/on/demandware.static/-/Sites-pcrichard-master-product-catalog/default/dwb139a0df/images/hires/AZ2_KFDC506JSS.jpg?sw=800&sh=800&sm=fit",
+      "description": "Professional-grade dual-fuel range with a powerful oven and six versatile burners.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Stove and cooktop",
+      "name": "Bosch Gas Cooktop",
+      "brand": "Bosch",
+      "model": "NGM8056UC",
+      "price": 899.99,
+      "specifications": ["Five sealed burners", "Continuous grates", "OptiSim burner"],
+      "image": "https://globalkitchenappliances.in/wp-content/uploads/2023/05/136252PRS9A6D70I.jpg",
+      "description": "Modern gas cooktop with sealed burners, continuous grates, and an OptiSim simmer burner.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    }
+  ]
+  

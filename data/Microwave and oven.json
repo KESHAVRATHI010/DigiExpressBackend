@@ -1,0 +1,58 @@
+[
+    {
+      "category": "Microwave and oven",
+      "name": "Breville Smart Oven Air",
+      "brand": "Breville",
+      "model": "Smart Oven Air",
+      "price": 399.99,
+      "specifications": ["Super convection technology", "13 cooking functions", "Air frying capability"],
+      "image": "https://images-cdn.ubuy.co.in/633aa193123e6866d778252a-breville-smart-oven-air-fryer-toaster.jpg",
+      "description": "Versatile smart oven with super convection for even cooking and air frying feature.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Microwave and oven",
+      "name": "Samsung Countertop Microwave",
+      "brand": "Samsung",
+      "model": "Countertop Microwave",
+      "price": 149.99,
+      "specifications": ["1.1 cu. ft. capacity", "Sensor cooking", "Ceramic enamel interior"],
+      "image": "https://image-us.samsung.com/SamsungUS/home/home-Microwave and oven/microwaves/countertop/pdp/mg14h3020cm/gallery/01_Microwave_Countertop_MG14H3020CM_Front.jpg?$product-details-jpg$",
+      "description": "Compact countertop microwave with sensor cooking and easy-to-clean ceramic interior.",
+      "warranty": { "duration": 1, "description": "One-year limited warranty" }
+    },
+    {
+      "category": "Microwave and oven",
+      "name": "Whirlpool Over-the-Range Microwave",
+      "brand": "Whirlpool",
+      "model": "Over-the-Range Microwave",
+      "price": 299.99,
+      "specifications": ["1.9 cu. ft. capacity", "Convection cooking", "Steam cooking"],
+      "image": "https://www.homebasics.store/cdn/shop/products/00425050_10_FRONT.png?v=1639086319",
+      "description": "Over-the-range microwave with convection and steam cooking capabilities.",
+      "warranty": { "duration": 2, "description": "Two-year limited warranty" }
+    },
+    {
+      "category": "Microwave and oven",
+      "name": "LG NeoChef Countertop Microwave",
+      "brand": "LG",
+      "model": "NeoChef",
+      "price": 129.99,
+      "specifications": ["0.9 cu. ft. capacity", "Smart Inverter technology", "EasyClean interior"],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5714/5714901_sd.jpg",
+      "description": "Compact countertop microwave with smart inverter technology and easy-to-clean interior.",
+      "warranty": { "duration": 1, "description": "Limited one-year warranty" }
+    },
+    {
+      "category": "Microwave and oven",
+      "name": "KitchenAid Double Wall Oven",
+      "brand": "KitchenAid",
+      "model": "Double Wall Oven",
+      "price": 1899.99,
+      "specifications": ["5.0 cu. ft. per oven", "Even-Heat True Convection", "Touchscreen controls"],
+      "image": "https://images.thdstatic.com/productImages/023332a8-d0b1-496a-90c5-47b4b02010e8/svn/stainless-steel-kitchenaid-double-electric-wall-ovens-kode500ess-64_1000.jpg",
+      "description": "Double wall oven with large capacity, true convection, and intuitive touchscreen controls.",
+      "warranty": { "duration": 3, "description": "Three-year limited warranty" }
+    }
+  ]
+  
