@@ -81,17 +81,19 @@ router.delete("/:id", getproduct, async (req, res) => {
   }
 });
 async function getproduct(req, res, next) {
-  let product;
   try {
-    product = await Product.findById(req.params.id);
-    if (product == null) {
-      return res.status(404).json({ message: "Cannot find Product" });
-    }
-  } catch (err) {
-    return res.status(500).json({ message: err.message });
-  }
+    const product = await Product.findById(req.params.id);
 
-  res.product = product;
-  next();
+    if (!product) {
+      return res.status(404).json({ message: "Product not found" });
+    }
+
+    res.product = product;
+    next();
+  } catch (err) {
+    console.error('Error finding product:', err);
+    res.status(500).json({ message: 'Internal Server Error' });
+  }
 }
+
 module.exports = router;
