@@ -8,13 +8,8 @@ router.get("/", async (req, res) => {
     res.status(200).json(products);
   } catch (err) {
     console.error('Error fetching products:', err);
-    res.status(500).json({ error: `Internal Server Error: ${err.message}` });
+    res.status(500).json({ error: `keshav: ${err.message}` });
   }
-});
-
-
-router.get("/:id", getproduct, (req, res) => {
-  res.json(res.product);
 });
 
 router.post("/", async (req, res) => {

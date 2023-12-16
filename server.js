@@ -27,6 +27,6 @@ app.use(express.json());
 const productrouter = require('./routes/products');
 app.use('/product',productrouter)
 
-const PORT = process.env.PORT|| 3001
+const PORT = process.env.PORT|| 3002
 
 app.listen(PORT,() => console.log("server started!"))
